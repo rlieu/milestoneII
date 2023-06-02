@@ -58,25 +58,79 @@ Source Code: IP.B53100.S",1959-01-01,2023-03-01
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
 Source Code: IP.B53200.S",1959-01-01,2023-03-01
-5,IPMANSICS,1,FRED-MD,IP: Manufacturing (SIC),,,,,,1959-01-01,2023-03-01
-5,IPB51222S,1,FRED-MD,IP: Residential Utilities,,,,,,1959-01-01,2023-03-01
-5,IPFUELS,1,FRED-MD,IP: Fuels,,,,,,1959-01-01,2023-03-01
-2,CUMFNS,1,FRED-MD,Capacity Utilization:  Manufacturing,,,,,,1959-01-01,2023-03-01
+5,IPMANSICS,1,FRED-MD,Industrial Production: Manufacturing (SIC),M,Index 2017=100,SA,2023-05-16 08:19:09-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
+
+For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
+
+Source Code: IP.B00004.S",1959-01-01,2023-03-01
+5,IPB51222S,1,FRED-MD,Industrial Production: Non-Durable Consumer Energy Products: Residential Utilities,M,Index 2017=100,SA,2023-05-16 08:19:21-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
+
+For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
+
+Source Code: IP.B51222.S",1959-01-01,2023-03-01
+5,IPFUELS,1,FRED-MD,Industrial Production: Non-Durable Consumer Energy Products: Fuels,M,Index 2017=100,SA,2023-05-16 08:19:21-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
+
+For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
+
+Source Code: IP.B51221.S",1959-01-01,2023-03-01
+2,CUMFNS,1,FRED-MD,Capacity Utilization: Manufacturing (SIC),M,% of Capacity,SA,2023-05-16 08:18:06-05,"For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.
+
+For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
+
+Source Code: CAPUTL.B00004.S",1959-01-01,2023-03-01
 2,HWI,2,FRED-MD,Help-Wanted Index for United States,,,,,,1959-01-01,2023-02-01
 2,HWIURATIO,2,FRED-MD,Ratio of Help Wanted/No.  Unemployed,,,,,,1959-01-01,2023-02-01
-5,CLF16OV,2,FRED-MD,Civilian Labor Force,,,,,,1959-01-01,2023-03-01
-5,CE16OV,2,FRED-MD,Civilian Employment,,,,,,1959-01-01,2023-03-01
-2,UNRATE,2,FRED-MD,Civilian Unemployment Rate,,,,,,1959-01-01,2023-03-01
-2,UEMPMEAN,2,FRED-MD,Average Duration of Unemployment (Weeks),,,,,,1959-01-01,2023-03-01
-5,UEMPLT5,2,FRED-MD,Civilians Unemployed - Less Than 5 Weeks,,,,,,1959-01-01,2023-03-01
-5,UEMP5TO14,2,FRED-MD,Civilians Unemployed for 5-14 Weeks,,,,,,1959-01-01,2023-03-01
-5,UEMP15OV,2,FRED-MD,Civilians Unemployed - 15 Weeks & Over,,,,,,1959-01-01,2023-03-01
-5,UEMP15T26,2,FRED-MD,Civilians Unemployed for 15-26 Weeks,,,,,,1959-01-01,2023-03-01
-5,UEMP27OV,2,FRED-MD,Civilians Unemployed for 27 Weeks and Over,,,,,,1959-01-01,2023-03-01
+5,CLF16OV,2,FRED-MD,Civilian Labor Force Level,M,Thous. of Persons,SA,2023-05-05 07:44:06-05,"Persons 16 years of age and older.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS11000000",1959-01-01,2023-03-01
+5,CE16OV,2,FRED-MD,Employment Level,M,Thous. of Persons,SA,2023-05-05 07:44:10-05,"The civilian noninstitutional population is defined as: persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS12000000",1959-01-01,2023-03-01
+2,UNRATE,2,FRED-MD,Unemployment Rate,M,%,SA,2023-05-05 07:44:02-05,"The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+This rate is also defined as the U-3 measure of labor underutilization.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS14000000",1959-01-01,2023-03-01
+2,UEMPMEAN,2,FRED-MD,Average Weeks Unemployed,M,Weeks,SA,2023-05-05 07:44:17-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008275",1959-01-01,2023-03-01
+5,UEMPLT5,2,FRED-MD,Number Unemployed for Less Than 5 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:33-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008396",1959-01-01,2023-03-01
+5,UEMP5TO14,2,FRED-MD,Number Unemployed for 5-14 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:39-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008756",1959-01-01,2023-03-01
+5,UEMP15OV,2,FRED-MD,Number Unemployed for 15 Weeks & over,M,Thous. of Persons,SA,2023-05-05 07:44:34-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008516",1959-01-01,2023-03-01
+5,UEMP15T26,2,FRED-MD,Number Unemployed for 15-26 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:40-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008876",1959-01-01,2023-03-01
+5,UEMP27OV,2,FRED-MD,Number Unemployed for 27 Weeks & over,M,Thous. of Persons,SA,2023-05-05 07:44:21-05,"The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13008636",1959-01-01,2023-03-01
 5,CLAIMSx,2,FRED-MD,Initial Claims,,,,,,1959-01-01,2023-03-01
-5,PAYEMS,2,FRED-MD,All Employees:  Total nonfarm,,,,,,1959-01-01,2023-03-01
-5,USGOOD,2,FRED-MD,All Employees:  Goods-Producing Industries,,,,,,1959-01-01,2023-03-01
-5,CES1021000001,2,FRED-MD,All Employees:  Mining and Logging:  Mining,,,,,,1959-01-01,2023-03-01
+5,PAYEMS,2,FRED-MD,"All Employees, Total Nonfarm",M,Thous. of Persons,SA,2023-05-05 07:45:01-05,"All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP).
+
+This measure provides useful insights into the current economic situation because it can represent the number of jobs added or lost in an economy. Increases in employment might indicate that businesses are hiring which might also suggest that businesses are growing. Additionally, those who are newly employed have increased their personal incomes, which means (all else constant) their disposable incomes have also increased, thus fostering further economic expansion.
+
+Generally, the U.S. labor force and levels of employment and unemployment are subject to fluctuations due to seasonal changes in weather, major holidays, and the opening and closing of schools. The Bureau of Labor Statistics (BLS) adjusts the data to offset the seasonal effects to show non-seasonal changes: for example, women's participation in the labor force; or a general decline in the number of employees, a possible indication of a downturn in the economy. To closely examine seasonal and non-seasonal changes, the BLS releases two monthly statistical measures: the seasonally adjusted All Employees: Total Nonfarm (PAYEMS) and All Employees: Total Nonfarm (PAYNSA), which is not seasonally adjusted.
+
+The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES0000000001",1959-01-01,2023-03-01
+5,USGOOD,2,FRED-MD,"All Employees, Goods-Producing",M,Thous. of Persons,SA,2023-05-05 07:45:12-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES0600000001",1959-01-01,2023-03-01
+5,CES1021000001,2,FRED-MD,"All Employees, Mining, Quarrying, And Oil And Gas Extraction",M,Thous. of Persons,SA,2023-05-05 07:45:15-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES1021000001",1959-01-01,2023-03-01
 5,USCONS,2,FRED-MD,"All Employees, Construction",M,Thous. of Persons,SA,2023-05-05 07:45:03-05,"Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics, apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance, and the like, whether working at the site of construction or in shops or yards at jobs (such as precutting and preassembling) ordinarily performed by members of the construction trades.
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
@@ -186,7 +240,7 @@ Equals total reserves (TOTRESNS) (https://fred.stlouisfed.org/series/TOTRESNS), 
 5,S&P: indust,8,FRED-MD,S&P's Common Stock Price Index: Industrials,,,,,,1959-01-01,2023-03-01
 2,S&P div yield,8,FRED-MD,S&P's Composite Common Stock: Dividend Yield,,,,,,1959-01-01,2023-03-01
 5,S&P PE ratio,8,FRED-MD,S&P's Composite Common Stock: Price-Earnings Ratio,,,,,,1959-01-01,2023-01-01
-2,FEDFUNDS,6,FRED-MD,Federal Funds Effective Rate,M,%,NSA,2023-05-01 15:18:02-05,"Averages of daily figures. 
+2,FEDFUNDS,6,FRED-MD,Federal Funds Effective Rate,M,%,NSA,2023-06-01 15:21:02-05,"Averages of daily figures. 
 
 For additional historical federal funds rate data, please see  Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
 
@@ -197,32 +251,32 @@ References
 (1) Federal Reserve Bank of New York. ""Federal funds."" Fedpoints, August 2007.
 (2) Board of Governors of the Federal Reserve System. ""Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm)"".",1959-01-01,2023-03-01
 2,CP3Mx,6,FRED-MD,3-Month AA Financial Commercial Paper Rate,,,,,,1959-01-01,2023-03-01
-2,TB3MS,6,FRED-MD,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-05-01 15:18:12-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
-2,TB6MS,6,FRED-MD,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-05-01 15:18:26-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
-2,GS1,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-05-01 15:18:18-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,GS5,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-05-01 15:18:19-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,GS10,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-05-01 15:18:14-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,AAA,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Yield,M,%,NSA,2023-05-01 10:16:02-05,"These instruments are based on bonds with maturities 20 years and above. 
+2,TB3MS,6,FRED-MD,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-06-01 15:21:08-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
+2,TB6MS,6,FRED-MD,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-06-01 15:21:19-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
+2,GS1,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:13-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
+2,GS5,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:14-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
+2,GS10,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:10-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
+2,AAA,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Yield,M,%,NSA,2023-06-01 10:16:02-05,"These instruments are based on bonds with maturities 20 years and above. 
 
 © 2017, Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “Moody’s”).  All rights reserved. Moody’s ratings and other information (“Moody’s Information”) are proprietary to Moody’s and/or its licensors and are protected by copyright and other intellectual property laws.  Moody’s Information is licensed to Client by Moody’s.  MOODY’S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT.",1959-01-01,2023-03-01
-2,BAA,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Yield,M,%,NSA,2023-05-01 10:16:06-05,"These instruments are based on bonds with maturities 20 years and above. 
+2,BAA,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Yield,M,%,NSA,2023-06-01 10:16:03-05,"These instruments are based on bonds with maturities 20 years and above. 
 
 © 2017, Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “Moody’s”).  All rights reserved. Moody’s ratings and other information (“Moody’s Information”) are proprietary to Moody’s and/or its licensors and are protected by copyright and other intellectual property laws.  Moody’s Information is licensed to Client by Moody’s.  MOODY’S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT.",1959-01-01,2023-03-01
 1,COMPAPFFx,6,FRED-MD,3-Month Commercial Paper Minus FEDFUNDS,,,,,,1959-01-01,2023-03-01
-1,TB3SMFFM,6,FRED-MD,3-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:16-05,"Series is calculated as the spread between 3-Month Treasury Bill: Secondary Market Rate (ROUND_B1_CLOSE_13WK_2M)) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
+1,TB3SMFFM,6,FRED-MD,3-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:03-05,"Series is calculated as the spread between 3-Month Treasury Bill: Secondary Market Rate (ROUND_B1_CLOSE_13WK_2M)) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,TB6SMFFM,6,FRED-MD,6-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:21-05,Series is calculated as the spread between 6-Month Treasury Bill: Secondary Market Rate (https://fred.stlouisfed.org/series/TB6MS) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/FEDFUNDS).,1959-01-01,2023-03-01
-1,T1YFFM,6,FRED-MD,1-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:22-05,"Series is calculated as the spread between 1-Year Treasury Constant Maturity (BC_1YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
+1,TB6SMFFM,6,FRED-MD,6-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:06-05,Series is calculated as the spread between 6-Month Treasury Bill: Secondary Market Rate (https://fred.stlouisfed.org/series/TB6MS) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/FEDFUNDS).,1959-01-01,2023-03-01
+1,T1YFFM,6,FRED-MD,1-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between 1-Year Treasury Constant Maturity (BC_1YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,T5YFFM,6,FRED-MD,5-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:22-05,"Series is calculated as the spread between 5-Year Treasury Constant Maturity (BC_5YEAR) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFR).
+1,T5YFFM,6,FRED-MD,5-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between 5-Year Treasury Constant Maturity (BC_5YEAR) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFR).
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,T10YFFM,6,FRED-MD,10-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:20-05,"Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
+1,T10YFFM,6,FRED-MD,10-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:05-05,"Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,AAAFFM,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:22-05,"Series is calculated as the spread between Moody's Seasoned Aaa Corporate Bond© (https://fred.stlouisfed.org/series/AAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
+1,AAAFFM,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between Moody's Seasoned Aaa Corporate Bond© (https://fred.stlouisfed.org/series/AAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
 
 ©2017, Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""Moody's""). All rights reserved. Moody's ratings and other information (""Moody's Information"") are proprietary to Moody's and/or its licensors and are protected by copyright and other intellectual property laws. Moody's Information is licensed to Client by Moody's. MOODY'S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,BAAFFM,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-05-01 16:01:20-05,"Series is calculated as the spread between Moody's Seasoned Baa Corporate Bond© (https://fred.stlouisfed.org/series/BAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
+1,BAAFFM,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:06-05,"Series is calculated as the spread between Moody's Seasoned Baa Corporate Bond© (https://fred.stlouisfed.org/series/BAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
 
 ©2017, Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""Moody's""). All rights reserved. Moody's ratings and other information (""Moody's Information"") are proprietary to Moody's and/or its licensors and are protected by copyright and other intellectual property laws. Moody's Information is licensed to Client by Moody's. MOODY'S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
 Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
@@ -383,7 +437,7 @@ U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index an
 1,WPSID621,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs,M,Index 1982=100,SA,2023-05-11 07:53:31-05,,1969-01-01,2023-04-01
 1,WPSID6221,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel,M,Index 1982=100,SA,2023-05-11 07:57:15-05,,1973-01-01,2023-04-01
 1,WPSID6222,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel,M,Index 1982=100,SA,2023-05-11 07:57:15-05,,1973-01-01,2023-04-01
-1,WPU03T15M05,7,FRED,Producer Price Index by Commodity: Industrial Commodities Less Fuels,M,Index 1982=100,NSA,2023-05-11 07:53:07-05,,1967-01-01,2023-04-01
+1,WPU03T15M05,7,FRED,PPI,,,,,,1967-01-01,2023-04-01
 1,WPU057,7,FRED,"Producer Price Index by Commodity: Fuels and Related Products and Power: Petroleum Products, Refined",M,Index 1982=100,NSA,2023-05-11 07:53:18-05,,1959-01-01,2023-04-01
 1,WPU061,7,FRED,Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals,M,Index 1982=100,NSA,2023-05-11 07:53:02-05,,1959-01-01,2023-04-01
 1,WPU071,7,FRED,Producer Price Index by Commodity: Rubber and Plastic Products: Rubber and Rubber Products,M,Index 1982=100,NSA,2023-05-11 07:53:13-05,,1967-01-01,2023-04-01
@@ -394,67 +448,57 @@ U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index an
 1,WPU117,7,FRED,Producer Price Index by Commodity: Machinery and Equipment: Electrical Machinery and Equipment,M,Index 1982=100,NSA,2023-05-11 07:52:10-05,,1959-01-01,2023-04-01
 1,WPU1178,7,FRED,Producer Price Index by Commodity: Machinery and Equipment: Electronic Components and Accessories,M,Index 1982=100,NSA,2023-05-11 07:52:18-05,,1965-12-01,2023-04-01
 1,WPU142,7,FRED,Producer Price Index by Commodity: Transportation Equipment: Aircraft and Aircraft Equipment,M,Index 1982=100,NSA,2023-05-11 07:51:23-05,,1971-01-01,2023-04-01
-1,NASDAQCOM,8,FRED,NASDAQ Composite Index,D,"Index Feb 5, 1971=100",NSA,2023-05-26 07:03:02-05,"The observations for the NASDAQ Composite Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,NASDAQCOM,8,FRED,NASDAQ Composite Index,D,"Index Feb 5, 1971=100",NSA,2023-06-01 07:04:03-05,"The observations for the NASDAQ Composite Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The NASDAQ Composite Index is a market capitalization weighted index with more than 3000 common equities listed on the NASDAQ Stock Market. The types of securities in the index include American depositary receipts (ADRs), common stocks, real estate investment trusts (REITs), and tracking stocks. The index includes all NASDAQ listed stocks that are not derivatives, preferred shares, funds, exchange-traded funds (ETFs) or debentures.
 
 Copyright Â© 2016, NASDAQ OMX Group, Inc.",1971-02-01,2023-04-01
-1,WILL5000IND,8,FRED,Wilshire 5000 Total Market Index,D,Index,NSA,2023-05-26 07:04:05-05,"The observations for the Wilshire 5000 Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILL5000IND,8,FRED,Wilshire 5000 Total Market Index,D,Index,NSA,2023-06-01 10:02:03-05,"The observations for the Wilshire 5000 Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000INDFC,8,FRED,Wilshire 5000 Total Market Full Cap Index,D,Index,NSA,2023-05-26 07:04:04-05,"The observations for the Wilshire 5000 Total Market Full Cap Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILL5000INDFC,8,FRED,Wilshire 5000 Total Market Full Cap Index,D,Index,NSA,2023-05-31 07:04:05-05,"The observations for the Wilshire 5000 Total Market Full Cap Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. The designation Full Cap for an index signifies a float adjusted market capitalization that includes shares of stock not considered available to ""ordinary"" investors. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000PR,8,FRED,Wilshire 5000 Price Index,D,Index,NSA,2023-05-26 07:04:04-05,"The observations for the Wilshire 5000 Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILL5000PR,8,FRED,Wilshire 5000 Price Index,D,Index,NSA,2023-06-01 10:02:04-05,"The observations for the Wilshire 5000 Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The price indexes are price returns, which do not reinvest dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000PRFC,8,FRED,Wilshire 5000 Full Cap Price Index,D,Index,NSA,2023-05-26 07:04:05-05,"The observations for the Wilshire 5000 Full Cap Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILL5000PRFC,8,FRED,Wilshire 5000 Full Cap Price Index,D,Index,NSA,2023-05-31 07:04:06-05,"The observations for the Wilshire 5000 Full Cap Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The price indexes are price returns, which do not reinvest dividends. The designation Full Cap for an index signifies a float adjusted market capitalization that includes shares of stock not considered available to ""ordinary"" investors. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILLLRGCAP,8,FRED,Wilshire US Large-Cap Total Market Index,D,Index,NSA,2023-05-26 07:04:06-05,"The observations for the Wilshire US Large-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLLRGCAP,8,FRED,Wilshire US Large-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:05-05,"The observations for the Wilshire US Large-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLLRGCAPGR,8,FRED,Wilshire US Large-Cap Growth Total Market Index,D,Index,NSA,2023-05-26 07:04:06-05,"The observations for the Wilshire US Large-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLLRGCAPGR,8,FRED,Wilshire US Large-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:03:06-05,"The observations for the Wilshire US Large-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLLRGCAPVAL,8,FRED,Wilshire US Large-Cap Value Total Market Index,D,Index,NSA,2023-05-26 07:04:07-05,"The observations for the Wilshire US Large-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLLRGCAPVAL,8,FRED,Wilshire US Large-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:03:06-05,"The observations for the Wilshire US Large-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMICROCAP,8,FRED,Wilshire US Micro-Cap Total Market Index,D,Index,NSA,2023-05-26 07:02:07-05,"The observations for the Wilshire US Micro-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLMICROCAP,8,FRED,Wilshire US Micro-Cap Total Market Index,D,Index,NSA,2023-06-01 10:02:04-05,"The observations for the Wilshire US Micro-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAP,8,FRED,Wilshire US Mid-Cap Total Market Index,D,Index,NSA,2023-05-26 07:03:07-05,"The observations for the Wilshire US Mid-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLMIDCAP,8,FRED,Wilshire US Mid-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:07-05,"The observations for the Wilshire US Mid-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAPGR,8,FRED,Wilshire US Mid-Cap Growth Total Market Index,D,Index,NSA,2023-05-26 07:03:09-05,"The observations for the Wilshire US Mid-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLMIDCAPGR,8,FRED,Wilshire US Mid-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:03:08-05,"The observations for the Wilshire US Mid-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAPVAL,8,FRED,Wilshire US Mid-Cap Value Total Market Index,D,Index,NSA,2023-05-26 07:03:09-05,"The observations for the Wilshire US Mid-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLMIDCAPVAL,8,FRED,Wilshire US Mid-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:03:08-05,"The observations for the Wilshire US Mid-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLREITIND,8,FRED,Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT),D,Index,NSA,2023-05-26 07:02:04-05,"The observations for the Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLREITIND,8,FRED,Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT),D,Index,NSA,2023-06-01 10:02:05-05,"The observations for the Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1977-12-01,2023-04-01
-1,WILLRESIND,8,FRED,Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI),D,Index,NSA,2023-05-26 07:02:11-05,"The observations for the Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLRESIND,8,FRED,Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI),D,Index,NSA,2023-06-01 10:02:06-05,"The observations for the Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1977-12-01,2023-04-01
-1,WILLSMLCAP,8,FRED,Wilshire US Small-Cap Total Market Index,D,Index,NSA,2023-05-26 07:03:04-05,"The observations for the Wilshire US Small-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLSMLCAP,8,FRED,Wilshire US Small-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:09-05,"The observations for the Wilshire US Small-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLSMLCAPGR,8,FRED,Wilshire US Small-Cap Growth Total Market Index,D,Index,NSA,2023-05-26 07:03:08-05,"The observations for the Wilshire US Small-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLSMLCAPGR,8,FRED,Wilshire US Small-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:02:07-05,"The observations for the Wilshire US Small-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
 The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLSMLCAPVAL,8,FRED,Wilshire US Small-Cap Value Total Market Index,D,Index,NSA,2023-05-26 07:03:08-05,"The observations for the Wilshire US Small-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+1,WILLSMLCAPVAL,8,FRED,Wilshire US Small-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:02:08-05,"The observations for the Wilshire US Small-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
 
  The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
 1,HNFSEPUSSA,3,FRED,New One Family Homes for Sale in the United States,M,Thous. of Units,SA,2023-05-23 09:01:07-05,,1963-01-01,2023-04-01
-2,6M3M,6,FRED,6M minus 3M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,1Y3M,6,FRED,1Y minus 3M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,5Y3M,6,FRED,5Y minus 3M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,10Y3M,6,FRED,10Y minus 3M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,1Y6M,6,FRED,1Y minus 6M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,5Y6M,6,FRED,5Y minus 6M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,10Y6M,6,FRED,10Y minus 6M,M,%p,NSA,,,1959-01-01,2023-03-01
-2,5Y1Y,6,FRED,5Y minus 1Y,M,%p,NSA,,,1959-01-01,2023-03-01
-2,10Y1Y,6,FRED,10Y minus 1Y,M,%p,NSA,,,1959-01-01,2023-03-01
-2,10Y5Y,6,FRED,10Y minus 5Y,M,%p,NSA,,,1959-01-01,2023-03-01
