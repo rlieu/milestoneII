@@ -1,0 +1,198 @@
+PC,variable,var_ratio,var_ratio_cum,group,select,title
+PC0,IPMANSICS,0.6176948953224183,0.6176948953224183,1,1,Industrial Production: Manufacturing (SIC)
+PC1,IPB51222S,0.1086358614097315,0.7263307567321498,1,0,Industrial Production: Non-Durable Consumer Energy Products: Residential Utilities
+PC2,RPI,0.07231365439325943,0.7986444111254092,1,0,Real Personal Income
+PC3,W875RX1,0.06504545532368243,0.8636898664490916,1,0,Real personal income excluding current transfer receipts
+PC4,IPFUELS,0.04073697651782163,0.9044268429669132,1,0,Industrial Production: Non-Durable Consumer Energy Products: Fuels
+PC5,W875RX1,0.03486151062946031,0.9392883535963735,1,0,Real personal income excluding current transfer receipts
+PC6,IPB51222S,0.023116731903359042,0.9624050854997326,1,0,Industrial Production: Non-Durable Consumer Energy Products: Residential Utilities
+PC7,IPBUSEQ,0.014640944429362441,0.9770460299290951,1,0,Industrial Production: Equipment: Business Equipment
+PC8,IPDMAT,0.011948839273665524,0.9889948692027606,1,0,Industrial Production: Durable Goods Materials
+PC9,IPMAT,0.007226957942321389,0.996221827145082,1,0,Industrial Production: Materials
+PC10,CUMFNS,0.0019043652846981033,0.9981261924297801,1,0,Capacity Utilization: Manufacturing (SIC)
+PC11,IPFPNSS,0.0010176445030157385,0.9991438369327958,1,0,Industrial Production: Final Products and Nonindustrial Supplies
+PC12,IPFINAL,0.0005286226276751873,0.999672459560471,1,0,Industrial Production: Final Products
+PC13,IPFINAL,0.00019247928632415816,0.9998649388467952,1,0,Industrial Production: Final Products
+PC14,IPMANSICS,0.00012465424422910076,0.9999895930910243,1,0,Industrial Production: Manufacturing (SIC)
+PC15,INDPRO,1.040690897569771e-05,1.0,1,0,Industrial Production: Total Index
+PC0,PAYEMS,0.4351638372253483,0.4351638372253483,2,1,"All Employees, Total Nonfarm"
+PC1,UEMP15OV,0.10321722388631445,0.5383810611116627,2,0,Number Unemployed for 15 Weeks & over
+PC2,CES0600000008,0.06860210778411553,0.6069831688957783,2,0,Avg Hourly Earnings :  Goods-Producing
+PC3,HWI,0.05333453255264217,0.6603177014484205,2,0,Help-Wanted Index for United States
+PC4,CES0600000007,0.04928948973204966,0.7096071911804702,2,0,"Average Weekly Hours of Production and Nonsupervisory Employees, Goods-Producing"
+PC5,UEMP5TO14,0.03742337383657825,0.7470305650170485,2,0,Number Unemployed for 5-14 Weeks
+PC6,UEMP27OV,0.03480777984003158,0.78183834485708,2,0,Number Unemployed for 27 Weeks & over
+PC7,CES1021000001,0.030684242025673554,0.8125225868827536,2,0,"All Employees, Mining, Quarrying, And Oil And Gas Extraction"
+PC8,AWOTMAN,0.030188547128327584,0.8427111340110812,2,0,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing"
+PC9,USGOVT,0.025825375611250943,0.8685365096223322,2,0,"All Employees, Government"
+PC10,CLF16OV,0.023227265414285634,0.8917637750366179,2,0,Civilian Labor Force Level
+PC11,AWOTMAN,0.020637060657283338,0.9124008356939012,2,0,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing"
+PC12,USFIRE,0.01719515167157701,0.9295959873654782,2,0,"All Employees, Financial Activities"
+PC13,CLAIMSx,0.01606420475623819,0.9456601921217164,2,0,Initial Claims
+PC14,USGOVT,0.011747464385252544,0.9574076565069689,2,0,"All Employees, Government"
+PC15,UEMPMEAN,0.0097391413702933,0.9671467978772622,2,0,Average Weeks Unemployed
+PC16,USCONS,0.00898269026229877,0.976129488139561,2,0,"All Employees, Construction"
+PC17,USWTRADE,0.0066022791707933135,0.9827317673103544,2,0,"All Employees, Wholesale Trade"
+PC18,NDMANEMP,0.004447493748914168,0.9871792610592686,2,0,"All Employees, Nondurable Goods"
+PC19,USWTRADE,0.004123070195412937,0.9913023312546815,2,0,"All Employees, Wholesale Trade"
+PC20,CES0600000008,0.002467101898526947,0.9937694331532084,2,0,Avg Hourly Earnings :  Goods-Producing
+PC21,HWIURATIO,0.0017906499472258861,0.9955600831004343,2,0,Ratio of Help Wanted/No.  Unemployed
+PC22,SRVPRD,0.0016499917020314618,0.9972100748024658,2,0,"All Employees, Service-Providing"
+PC23,UNRATE,0.0008667646458027924,0.9980768394482686,2,0,Unemployment Rate
+PC24,UEMP15OV,0.000803346456899939,0.9988801859051686,2,0,Number Unemployed for 15 Weeks & over
+PC25,AWHMAN,0.0006209491311508982,0.9995011350363194,2,0,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing"
+PC26,USTPU,0.0003213636854703578,0.9998224987217897,2,0,"All Employees, Trade, Transportation, and Utilities"
+PC27,USGOOD,9.608377721244116e-05,0.9999185824990022,2,0,"All Employees, Goods-Producing"
+PC28,CE16OV,6.42389031761496e-05,0.9999828214021784,2,0,Employment Level
+PC29,PAYEMS,1.657058313526675e-05,0.9999993919853137,2,0,"All Employees, Total Nonfarm"
+PC30,MANEMP,6.080146864932693e-07,1.0000000000000002,2,0,"All Employees, Manufacturing"
+PC0,HOUST,0.760762036842378,0.760762036842378,3,1,New Privately-Owned Housing Units Started: Total Units
+PC1,HNFSEPUSSA,0.0924553728377359,0.8532174096801138,3,0,New One Family Homes for Sale in the United States
+PC2,HNFSEPUSSA,0.059422219670969965,0.9126396293510838,3,0,New One Family Homes for Sale in the United States
+PC3,HOUSTNE,0.049446317639508505,0.9620859469905922,3,0,New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region
+PC4,HOUSTW,0.013185982538883648,0.975271929529476,3,0,New Privately-Owned Housing Units Started: Total Units in the West Census Region
+PC5,PERMITNE,0.01085257674570864,0.9861245062751846,3,0,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region
+PC6,PERMITNE,0.0071437485069856,0.9932682547821702,3,0,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region
+PC7,HOUSTMW,0.0036065964788087627,0.996874851260979,3,0,New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region
+PC8,PERMITW,0.00301295828726101,0.99988780954824,3,0,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region
+PC9,PERMIT,8.750520740856809e-05,0.9999753147556485,3,0,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units
+PC10,HOUST,2.4685244351413593e-05,0.9999999999999999,3,0,New Privately-Owned Housing Units Started: Total Units
+PC0,ISRATIOx,0.4671379492141242,0.4671379492141242,4,1,Total Business:  Inventories to Sales Ratio
+PC1,AMDMUOx,0.24224566599606862,0.7093836152101929,4,1,Unfilled Orders for Durable Goods
+PC2,BUSINVx,0.12926175132056925,0.8386453665307622,4,0,Total Business Inventories
+PC3,AMDMUOx,0.06232381761499059,0.9009691841457528,4,0,Unfilled Orders for Durable Goods
+PC4,CMRMTSPLx,0.04766578903700609,0.9486349731827589,4,0,Real Manu.  and Trade Industries Sales
+PC5,DPCERA3M086SBEA,0.02114617887038938,0.9697811520531483,4,0,Real personal consumption expenditures (chain-type quantity index)
+PC6,AMDMNOx,0.019231594290188395,0.9890127463433367,4,0,New Orders for Durable Goods
+PC7,RETAILx,0.010987253656663545,1.0000000000000002,4,0,Retail and Food Services Sales
+PC0,TOTRESNS,0.18626175732772765,0.18626175732772765,5,1,Reserves of Depository Institutions: Total
+PC1,DTCTHFNM,0.1507090727576694,0.3369708300853971,5,1,Total Consumer Loans and Leases Outstanding
+PC2,M1SL,0.10766254089511225,0.4446333709805093,5,0,M1
+PC3,INVEST,0.09324036337712457,0.5378737343576339,5,0,Securities in Bank Credit at All Commercial Banks
+PC4,NONBORRES,0.07763988031914255,0.6155136146767765,5,0,"Reserves of Depository Institutions, Nonborrowed"
+PC5,CONSPI,0.07572997189897386,0.6912435865757504,5,0,Nonrevolving consumer credit to Personal Income
+PC6,BUSLOANS,0.06128661383794266,0.752530200413693,5,0,"Commercial and Industrial Loans, All Commercial Banks"
+PC7,M2REAL,0.058843071302903546,0.8113732717165966,5,0,Real M2 Money Stock
+PC8,INVEST,0.05683768618054261,0.8682109578971392,5,0,Securities in Bank Credit at All Commercial Banks
+PC9,CONSPI,0.051365311663018845,0.919576269560158,5,0,Nonrevolving consumer credit to Personal Income
+PC10,M2SL,0.03359331062670955,0.9531695801868676,5,0,M2
+PC11,DTCTHFNM,0.0252430591728168,0.9784126393596844,5,0,Total Consumer Loans and Leases Outstanding
+PC12,TOTRESNS,0.02158736064031577,1.0000000000000002,5,0,Reserves of Depository Institutions: Total
+PC0,T10YFFM,0.3631463224049626,0.3631463224049626,6,1,10-Year Treasury Constant Maturity Minus Federal Funds Rate
+PC1,GS1,0.22258476998825663,0.5857310923932192,6,1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis"
+PC2,1Y6M,0.10253897340635802,0.6882700657995772,6,0,1Y minus 6M
+PC3,TWEXAFEGSMTHx,0.08356540419458927,0.7718354699941664,6,0,Trade Weighted U.S. Dollar Index
+PC4,COMPAPFFx,0.06434418869199228,0.8361796586861587,6,0,3-Month Commercial Paper Minus FEDFUNDS
+PC5,FEDFUNDS,0.04823377768361861,0.8844134363697773,6,0,Federal Funds Effective Rate
+PC6,EXCAUSx,0.033568874481773356,0.9179823108515507,6,0,Canada / U.S. Foreign Exchange Rate
+PC7,EXUSUKx,0.01779384989781949,0.9357761607493702,6,0,U.S. / U.K. Foreign Exchange Rate
+PC8,6M3M,0.016616035784758294,0.9523921965341285,6,0,6M minus 3M
+PC9,6M3M,0.010447381594747352,0.9628395781288759,6,0,6M minus 3M
+PC10,EXSZUSx,0.00951990579878456,0.9723594839276605,6,0,Switzerland / U.S. Foreign Exchange Rate
+PC11,COMPAPFFx,0.007112224692604394,0.9794717086202649,6,0,3-Month Commercial Paper Minus FEDFUNDS
+PC12,10Y5Y,0.006350297349965719,0.9858220059702306,6,0,10Y minus 5Y
+PC13,TB3MS,0.004000343653878055,0.9898223496241086,6,0,"3-Month Treasury Bill Secondary Market Rate, Discount Basis"
+PC14,AAA,0.002635484313231754,0.9924578339373404,6,0,Moody's Seasoned Aaa Corporate Bond Yield
+PC15,BAAFFM,0.00237137652276135,0.9948292104601018,6,0,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate
+PC16,CP3Mx,0.002018340513952554,0.9968475509740543,6,0,3-Month AA Financial Commercial Paper Rate
+PC17,TWEXAFEGSMTHx,0.0012215750745061867,0.9980691260485605,6,0,Trade Weighted U.S. Dollar Index
+PC18,GS1,0.0010096705847969748,0.9990787966333574,6,0,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis"
+PC19,GS5,0.0004535093151517818,0.9995323059485092,6,0,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis"
+PC20,TB6MS,0.0002703878381863744,0.9998026937866955,6,0,"6-Month Treasury Bill Secondary Market Rate, Discount Basis"
+PC21,AAAFFM,0.00019730621330434105,0.9999999999999999,6,0,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate
+PC22,10Y6M,8.502836973391188e-33,0.9999999999999999,6,0,10Y minus 6M
+PC23,5Y3M,6.959788094771664e-33,0.9999999999999999,6,0,5Y minus 3M
+PC24,10Y3M,2.2603018518168848e-33,0.9999999999999999,6,0,10Y minus 3M
+PC25,10Y1Y,2.0129064161114394e-33,0.9999999999999999,6,0,10Y minus 1Y
+PC26,1Y3M,1.6932727579646718e-33,0.9999999999999999,6,0,1Y minus 3M
+PC27,T5YFFM,1.4647565463470025e-33,0.9999999999999999,6,0,5-Year Treasury Constant Maturity Minus Federal Funds Rate
+PC28,10Y6M,1.4647565463470025e-33,0.9999999999999999,6,0,10Y minus 6M
+PC29,T1YFFM,1.4647565463470025e-33,0.9999999999999999,6,0,1-Year Treasury Constant Maturity Minus Federal Funds Rate
+PC30,T10YFFM,1.0668241236187297e-33,0.9999999999999999,6,0,10-Year Treasury Constant Maturity Minus Federal Funds Rate
+PC31,5Y1Y,1.0568130444601322e-33,0.9999999999999999,6,0,5Y minus 1Y
+PC0,CPIAUCNS,0.2524135360891886,0.2524135360891886,7,1,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+PC1,CUSR0000SA0L2,0.19611332086269465,0.4485268569518832,7,1,CPI : All items less shelter
+PC2,WPU102,0.08295901736353775,0.5314858743154209,7,0,Producer Price Index by Commodity: Metals and Metal Products: Nonferrous Metals
+PC3,WPSFD49207,0.04390245507258728,0.5753883293880082,7,0,Producer Price Index by Commodity: Final Demand: Finished Goods
+PC4,DNRGRG3M086SBEA,0.040271346965228404,0.6156596763532366,7,0,Personal consumption expenditures: Energy goods and services (chain-type price index)
+PC5,CUSR0000SAS,0.03704937623352731,0.6527090525867639,7,0,CPI : Services
+PC6,DFXARG3M086SBEA,0.030270043742625923,0.6829790963293898,7,0,Personal consumption expenditures: Food (chain-type price index)
+PC7,WPU081,0.02776030494486791,0.7107394012742577,7,0,Producer Price Index by Commodity: Lumber and Wood Products: Lumber
+PC8,WPU081,0.024226287634593016,0.7349656889088507,7,0,Producer Price Index by Commodity: Lumber and Wood Products: Lumber
+PC9,CPIMEDSL,0.021475473854333283,0.756441162763184,7,0,CPI : Medical Care
+PC10,CPIAPPSL,0.02044349391804032,0.7768846566812243,7,0,CPI : Apparel
+PC11,PPICMM,0.018827825600675394,0.7957124822818997,7,0,Producer Price Index by Commodity: Metals and Metal Products: Primary Nonferrous Metals
+PC12,CPIOGSSL,0.01824413075581291,0.8139566130377126,7,0,Consumer Price Index for All Urban Consumers: Other Goods and Services in U.S. City Average
+PC13,CPIOGSSL,0.01712100164416015,0.8310776146818728,7,0,Consumer Price Index for All Urban Consumers: Other Goods and Services in U.S. City Average
+PC14,WPSID621,0.016482400349829993,0.8475600150317028,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs
+PC15,OILPRICEx,0.014371931160482547,0.8619319461921853,7,0,"Crude Oil, spliced WTI and Cushing"
+PC16,WPU102,0.012486588091741298,0.8744185342839266,7,0,Producer Price Index by Commodity: Metals and Metal Products: Nonferrous Metals
+PC17,OILPRICEx,0.012323030325513549,0.8867415646094401,7,0,"Crude Oil, spliced WTI and Cushing"
+PC18,WPSID62,0.010822353866123303,0.8975639184755634,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand
+PC19,WPSID62,0.010244167680581366,0.9078080861561447,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand
+PC20,WPU101,0.009193079523644508,0.9170011656797892,7,0,Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel
+PC21,CPIAPPNS,0.009051070509923768,0.926052236189713,7,0,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average
+PC22,CPIAPPNS,0.008770774092426888,0.9348230102821399,7,0,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average
+PC23,WPSID62,0.007877304081287145,0.942700314363427,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand
+PC24,WPU102,0.006370827686769949,0.949071142050197,7,0,Producer Price Index by Commodity: Metals and Metal Products: Nonferrous Metals
+PC25,CPIOGSNS,0.005605958252184314,0.9546771003023814,7,0,Consumer Price Index for All Urban Consumers: Other Goods and Services in U.S. City Average
+PC26,WPSID6221,0.005543433559763172,0.9602205338621446,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel
+PC27,WPSID61,0.005257390842367218,0.9654779247045118,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand
+PC28,CPIHOSSL,0.004322717571686488,0.9698006422761982,7,0,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average
+PC29,WPSID611,0.004048032008011148,0.9738486742842094,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Manufacturing
+PC30,CPIHOSSL,0.0033648081031679754,0.9772134823873774,7,0,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average
+PC31,WPU071,0.002983686292658757,0.9801971686800361,7,0,Producer Price Index by Commodity: Rubber and Plastic Products: Rubber and Rubber Products
+PC32,WPU142,0.0025107730355182364,0.9827079417155544,7,0,Producer Price Index by Commodity: Transportation Equipment: Aircraft and Aircraft Equipment
+PC33,WPSID613,0.0024116903489178323,0.9851196320644723,7,0,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants for Intermediate Demand
+PC34,PCEPILFE,0.002204373219170858,0.9873240052836432,7,0,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+PC35,CPITRNSL,0.0019850472799250738,0.9893090525635683,7,0,CPI : Transportation
+PC36,CPITRNNS,0.0017099405564769408,0.9910189931200452,7,0,Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average
+PC37,CUSR0000SA0L2,0.0013866591840787411,0.9924056523041239,7,0,CPI : All items less shelter
+PC38,WPU061,0.0013595741274469969,0.993765226431571,7,0,Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals
+PC39,WPU057,0.001182924177101201,0.9949481506086721,7,0,"Producer Price Index by Commodity: Fuels and Related Products and Power: Petroleum Products, Refined"
+PC40,CPIHOSNS,0.0010562666978924107,0.9960044173065645,7,0,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average
+PC41,CUSR0000SA0L5,0.0008573688768569866,0.9968617861834215,7,0,CPI : All items less medical care
+PC42,CPIFABSL,0.0007433944533446498,0.9976051806367662,7,0,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average
+PC43,CPIULFSL,0.0006263042177047964,0.998231484854471,7,0,CPI : All Items Less Food
+PC44,CUSR0000SAC,0.00048356432812314104,0.9987150491825941,7,0,CPI : Commodities
+PC45,DGDSRG3M086SBEA,0.00041563409789866233,0.9991306832804928,7,0,Personal consumption expenditures: Goods (chain-type price index)
+PC46,WPU117,0.0003558898319153238,0.9994865731124082,7,0,Producer Price Index by Commodity: Machinery and Equipment: Electrical Machinery and Equipment
+PC47,WPU03T15M05,0.0002132361304405826,0.9996998092428487,7,0,Producer Price Index by Commodity: Industrial Commodities Less Fuels
+PC48,WPSFD49502,0.00020131400007225776,0.999901123242921,7,0,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods (Finished Consumer Goods)
+PC49,PCEPI,7.016214143313389e-05,0.9999712853843542,7,0,Personal Cons.  Expend.:  Chain Index
+PC50,CPIAUCNS,2.8714615645742752e-05,1.0,7,0,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+PC0,WILL5000INDFC,0.5992060291350704,0.5992060291350704,8,1,Wilshire 5000 Total Market Full Cap Index
+PC1,S&P PE ratio,0.33551612121210683,0.9347221503471772,8,1,S&P's Composite Common Stock: Price-Earnings Ratio
+PC2,S&P PE ratio,0.03246661488388487,0.9671887652310621,8,0,S&P's Composite Common Stock: Price-Earnings Ratio
+PC3,NASDAQCOM,0.01751429594961472,0.9847030611806769,8,0,NASDAQ Composite Index
+PC4,S&P div yield,0.013400355115210701,0.9981034162958875,8,0,S&P's Composite Common Stock: Dividend Yield
+PC5,S&P 500,0.0012299924429485132,0.999333408738836,8,0,S&P's Common Stock Price Index: Composite(S&P 500)
+PC6,WILL5000PR,0.000594358726416414,0.9999277674652525,8,0,Wilshire 5000 Price Index
+PC7,WILL5000PRFC,7.214274096137448e-05,0.9999999102062138,8,0,Wilshire 5000 Full Cap Price Index
+PC8,WILL5000INDFC,8.979378623851625e-08,1.0,8,0,Wilshire 5000 Total Market Full Cap Index
+PC0,BSI,0.5234650810922147,0.5234650810922147,9,1,business survey(manufacturing):  Confidence indicators
+PC1,CSI,0.1682590094668705,0.6917240905590851,9,1,consumer opinion:  Confidence indicators    National indicator
+PC2,UMCSENTx,0.1079075920536182,0.7996316826127033,9,0,Consumer Sentiment Index
+PC3,VIXCLSx,0.09297648291798567,0.892608165530689,9,0,VIX
+PC4,VIXCLSx,0.0653325964361726,0.9579407619668616,9,0,VIX
+PC5,BS_EM,0.027799460940110307,0.9857402229069719,9,0,business survey(manufacturing):  Employment    Future tendency
+PC6,BCI,0.0084206507836182,0.9941608736905901,9,0,"OECD Standardised BCI, Amplitude adjusted (Long term average=100), sa"
+PC7,BS_OI,0.004303137437487171,0.9984640111280774,9,0,business survey(manufacturing):  Orders inflow    Tendency
+PC8,BSI,0.0010387466652324042,0.9995027577933098,9,0,business survey(manufacturing):  Confidence indicators
+PC9,CSI,0.0004972422066901984,1.0,9,0,consumer opinion:  Confidence indicators    National indicator
+PC0,H8B1151NCBCMG,0.2906828242540161,0.2906828242540161,10,1,"Total Assets, All Commercial Banks"
+PC1,H8B1003NCBCMG,0.14390400548475593,0.43458682973877205,10,0,"Treasury and Agency Securities, All Commercial Banks"
+PC2,H8B1029NCBCMG,0.11964355966354352,0.5542303894023156,10,0,"Consumer Loans, All Commercial Banks"
+PC3,H8B3094NCBCMG,0.09198173856579359,0.6462121279681092,10,0,"Borrowings, All Commercial Banks"
+PC4,H8B3095NCBCMG,0.08508681851815939,0.7312989464862686,10,0,"Other Liabilities, All Commercial Banks"
+PC5,H8B1047NCBCMG,0.06191021068397553,0.7932091571702441,10,0,"Loans to Commercial Banks, All Commercial Banks"
+PC6,H8B3305NCBCMG,0.05127573585899279,0.8444848930292369,10,0,"Other Loans and Leases: All Other Loans and Leases, All Commercial Banks"
+PC7,H8B1029NCBCMG,0.04232081140755842,0.8868057044367953,10,0,"Consumer Loans, All Commercial Banks"
+PC8,H8B1023NCBCMG,0.03487028659303102,0.9216759910298263,10,0,"Commercial and Industrial Loans, All Commercial Banks"
+PC9,H8B1029NCBCMG,0.028869283820743705,0.95054527485057,10,0,"Consumer Loans, All Commercial Banks"
+PC10,H8B3095NCBCMG,0.01895620721283703,0.9695014820634071,10,0,"Other Liabilities, All Commercial Banks"
+PC11,H8B1091NCBCMG,0.014936925435384966,0.9844384074987921,10,0,"Residual (Assets Less Liabilities), All Commercial Banks"
+PC12,H8B1003NCBCMG,0.008810900259078944,0.993249307757871,10,0,"Treasury and Agency Securities, All Commercial Banks"
+PC13,H8B1151NCBCMG,0.005470882418635166,0.9987201901765062,10,0,"Total Assets, All Commercial Banks"
+PC14,H8B1152NCBCMG,0.0007333113378159776,0.9994535015143221,10,0,"Total Liabilities, All Commercial Banks"
+PC15,H8B1001NCBCMG,0.00054649848567799,1.0,10,0,"Bank Credit, All Commercial Banks"
