@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 tcode,id,group,source,title,frequency_short,units_short,seasonal_adjustment_short,last_updated,notes,start,end
 5,RPI,1,FRED-MD,Real Personal Income,M,Bil. of Chn. 2012 $,SAAR,2023-05-26 07:43:18-05,"Calculated by the Federal Reserve Bank of St. Louis:
 Personal income in chained 2009 dollars (RPI) is personal income in
@@ -9,140 +8,75 @@ A Guide to the National Income and Product Accounts of the United States (NIPA) 
 For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-03-01
 5,CMRMTSPLx,4,FRED-MD,Real Manu.  and Trade Industries Sales,,,,,,1959-01-01,2023-02-01
 5,RETAILx,4,FRED-MD,Retail and Food Services Sales,,,,,,1959-01-01,2023-03-01
-=======
-tcode,id,group,source,title,frequency_short,units_short,seasonal_adjustment_short,last_updated,notes,start,end
-5,RPI,1,FRED-MD,Real Personal Income,M,Bil. of Chn. 2012 $,SAAR,2023-05-26 07:43:18-05,"Calculated by the Federal Reserve Bank of St. Louis:
-Personal income in chained 2009 dollars (RPI) is personal income in
-current dollars (PI) deflated by the PCE chained price index (PCEPI).",1959-01-01,2023-03-01
-5,W875RX1,1,FRED-MD,Real personal income excluding current transfer receipts,M,Bil. of Chn. 2012 $,SAAR,2023-05-26 07:43:19-05,"BEA Account Code: W875RX
-A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)",1959-01-01,2023-03-01
-5,DPCERA3M086SBEA,4,FRED-MD,Real personal consumption expenditures (chain-type quantity index),M,Index 2012=100,SA,2023-05-26 07:43:27-05,"BEA Account Code: DPCERA
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-03-01
-5,CMRMTSPLx,4,FRED-MD,Real Manu.  and Trade Industries Sales,,,,,,1959-01-01,2023-02-01
-5,RETAILx,4,FRED-MD,Retail and Food Services Sales,,,,,,1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,INDPRO,1,FRED-MD,Industrial Production: Total Index,M,Index 2017=100,SA,2023-05-16 08:19:02-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B50001.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B50001.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPFPNSS,1,FRED-MD,Industrial Production: Final Products and Nonindustrial Supplies,M,Index 2017=100,SA,2023-05-16 08:19:19-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B50030.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B50030.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPFINAL,1,FRED-MD,Industrial Production: Final Products,M,Index 2017=100,SA,2023-05-16 08:19:17-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B50002.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B50002.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPCONGD,1,FRED-MD,Industrial Production: Consumer Goods,M,Index 2017=100,SA,2023-05-16 08:19:10-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B51000.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B51000.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPDCONGD,1,FRED-MD,Industrial Production: Durable Consumer Goods,M,Index 2017=100,SA,2023-05-16 08:19:12-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B51100.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B51100.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPNCONGD,1,FRED-MD,Industrial Production: Non-Durable Consumer Goods,M,Index 2017=100,SA,2023-05-16 08:19:16-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B51200.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B51200.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPBUSEQ,1,FRED-MD,Industrial Production: Equipment: Business Equipment,M,Index 2017=100,SA,2023-05-16 08:19:13-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B52100.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B52100.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPMAT,1,FRED-MD,Industrial Production: Materials,M,Index 2017=100,SA,2023-05-16 08:19:16-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B53000.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B53000.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPDMAT,1,FRED-MD,Industrial Production: Durable Goods Materials,M,Index 2017=100,SA,2023-05-16 08:19:20-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B53100.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B53100.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPNMAT,1,FRED-MD,Industrial Production: Non-Durable Goods Materials,M,Index 2017=100,SA,2023-05-16 08:18:17-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B53200.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B53200.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPMANSICS,1,FRED-MD,Industrial Production: Manufacturing (SIC),M,Index 2017=100,SA,2023-05-16 08:19:09-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B00004.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B00004.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPB51222S,1,FRED-MD,Industrial Production: Non-Durable Consumer Energy Products: Residential Utilities,M,Index 2017=100,SA,2023-05-16 08:19:21-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B51222.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B51222.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 5,IPFUELS,1,FRED-MD,Industrial Production: Non-Durable Consumer Energy Products: Fuels,M,Index 2017=100,SA,2023-05-16 08:19:21-05,"The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: IP.B51221.S",1959-01-01,2023-03-01
-=======
-Source Code: IP.B51221.S",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 2,CUMFNS,1,FRED-MD,Capacity Utilization: Manufacturing (SIC),M,% of Capacity,SA,2023-05-16 08:18:06-05,"For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.
 
 For more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors
 
-<<<<<<< HEAD
 Source Code: CAPUTL.B00004.S",1959-01-01,2023-03-01
 2,HWI,2,FRED-MD,Help-Wanted Index for United States,,,,,,1959-01-01,2023-02-01
 2,HWIURATIO,2,FRED-MD,Ratio of Help Wanted/No.  Unemployed,,,,,,1959-01-01,2023-02-01
@@ -183,48 +117,6 @@ The source code is: LNS13008876",1959-01-01,2023-03-01
 The source code is: LNS13008636",1959-01-01,2023-03-01
 5,CLAIMSx,2,FRED-MD,Initial Claims,,,,,,1959-01-01,2023-03-01
 5,PAYEMS,2,FRED-MD,"All Employees, Total Nonfarm",M,Thous. of Persons,SA,2023-06-02 07:47:01-05,"All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP).
-=======
-Source Code: CAPUTL.B00004.S",1959-01-01,2023-03-01
-2,HWI,2,FRED-MD,Help-Wanted Index for United States,,,,,,1959-01-01,2023-02-01
-2,HWIURATIO,2,FRED-MD,Ratio of Help Wanted/No.  Unemployed,,,,,,1959-01-01,2023-02-01
-5,CLF16OV,2,FRED-MD,Civilian Labor Force Level,M,Thous. of Persons,SA,2023-05-05 07:44:06-05,"Persons 16 years of age and older.
-
-The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS11000000",1959-01-01,2023-03-01
-5,CE16OV,2,FRED-MD,Employment Level,M,Thous. of Persons,SA,2023-05-05 07:44:10-05,"The civilian noninstitutional population is defined as: persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
-
-The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS12000000",1959-01-01,2023-03-01
-2,UNRATE,2,FRED-MD,Unemployment Rate,M,%,SA,2023-05-05 07:44:02-05,"The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
-
-This rate is also defined as the U-3 measure of labor underutilization.
-
-The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS14000000",1959-01-01,2023-03-01
-2,UEMPMEAN,2,FRED-MD,Average Weeks Unemployed,M,Weeks,SA,2023-05-05 07:44:17-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008275",1959-01-01,2023-03-01
-5,UEMPLT5,2,FRED-MD,Number Unemployed for Less Than 5 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:33-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008396",1959-01-01,2023-03-01
-5,UEMP5TO14,2,FRED-MD,Number Unemployed for 5-14 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:39-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008756",1959-01-01,2023-03-01
-5,UEMP15OV,2,FRED-MD,Number Unemployed for 15 Weeks & over,M,Thous. of Persons,SA,2023-05-05 07:44:34-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008516",1959-01-01,2023-03-01
-5,UEMP15T26,2,FRED-MD,Number Unemployed for 15-26 Weeks,M,Thous. of Persons,SA,2023-05-05 07:44:40-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008876",1959-01-01,2023-03-01
-5,UEMP27OV,2,FRED-MD,Number Unemployed for 27 Weeks & over,M,Thous. of Persons,SA,2023-05-05 07:44:21-05,"The series comes from the 'Current Population Survey (Household Survey)'
-
-The source code is: LNS13008636",1959-01-01,2023-03-01
-5,CLAIMSx,2,FRED-MD,Initial Claims,,,,,,1959-01-01,2023-03-01
-5,PAYEMS,2,FRED-MD,"All Employees, Total Nonfarm",M,Thous. of Persons,SA,2023-05-05 07:45:01-05,"All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP).
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 
 This measure provides useful insights into the current economic situation because it can represent the number of jobs added or lost in an economy. Increases in employment might indicate that businesses are hiring which might also suggest that businesses are growing. Additionally, those who are newly employed have increased their personal incomes, which means (all else constant) their disposable incomes have also increased, thus fostering further economic expansion.
 
@@ -232,7 +124,6 @@ Generally, the U.S. labor force and levels of employment and unemployment are su
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
-<<<<<<< HEAD
 The source code is: CES0000000001",1959-01-01,2023-03-01
 5,USGOOD,2,FRED-MD,"All Employees, Goods-Producing",M,Thous. of Persons,SA,2023-06-02 07:47:09-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
@@ -255,36 +146,11 @@ The source code is: CES3100000001",1959-01-01,2023-03-01
 
 The source code is: CES3200000001",1959-01-01,2023-03-01
 5,SRVPRD,2,FRED-MD,"All Employees, Service-Providing",M,Thous. of Persons,SA,2023-06-02 07:47:10-05,"Handbook of Methods Establishment Survey - (https://www.bls.gov/opub/hom/pdf/ces-20110307.pdf)
-=======
-The source code is: CES0000000001",1959-01-01,2023-03-01
-5,USGOOD,2,FRED-MD,"All Employees, Goods-Producing",M,Thous. of Persons,SA,2023-05-05 07:45:12-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES0600000001",1959-01-01,2023-03-01
-5,CES1021000001,2,FRED-MD,"All Employees, Mining, Quarrying, And Oil And Gas Extraction",M,Thous. of Persons,SA,2023-05-05 07:45:15-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES1021000001",1959-01-01,2023-03-01
-5,USCONS,2,FRED-MD,"All Employees, Construction",M,Thous. of Persons,SA,2023-05-05 07:45:03-05,"Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics, apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance, and the like, whether working at the site of construction or in shops or yards at jobs (such as precutting and preassembling) ordinarily performed by members of the construction trades.
-
-The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES2000000001",1959-01-01,2023-03-01
-5,MANEMP,2,FRED-MD,"All Employees, Manufacturing",M,Thous. of Persons,SA,2023-05-05 07:45:02-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES3000000001",1959-01-01,2023-03-01
-5,DMANEMP,2,FRED-MD,"All Employees, Durable Goods",M,Thous. of Persons,SA,2023-05-05 07:45:13-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES3100000001",1959-01-01,2023-03-01
-5,NDMANEMP,2,FRED-MD,"All Employees, Nondurable Goods",M,Thous. of Persons,SA,2023-05-05 07:45:14-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES3200000001",1959-01-01,2023-03-01
-5,SRVPRD,2,FRED-MD,"All Employees, Service-Providing",M,Thous. of Persons,SA,2023-05-05 07:45:11-05,"Handbook of Methods Establishment Survey - (https://www.bls.gov/opub/hom/pdf/ces-20110307.pdf)
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 
 Frequently Asked Questions - (http://stats.bls.gov:80/cps/cps_faq.htm)
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
-<<<<<<< HEAD
 The source code is: CES0700000001",1959-01-01,2023-03-01
 5,USTPU,2,FRED-MD,"All Employees, Trade, Transportation, and Utilities",M,Thous. of Persons,SA,2023-06-02 07:47:10-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
@@ -299,22 +165,6 @@ The source code is: CES4200000001",1959-01-01,2023-03-01
 
 The source code is: CES5500000001",1959-01-01,2023-03-01
 5,USGOVT,2,FRED-MD,"All Employees, Government",M,Thous. of Persons,SA,2023-06-02 07:46:14-05,"Government employment covers only civilian employees; military personnel are excluded. Employees of the Central Intelligence Agency, the National Security Agency, the National Imagery and Mapping Agency, and the Defense Intelligence Agency also are excluded. Postal Services are included.
-=======
-The source code is: CES0700000001",1959-01-01,2023-03-01
-5,USTPU,2,FRED-MD,"All Employees, Trade, Transportation, and Utilities",M,Thous. of Persons,SA,2023-05-05 07:45:12-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES4000000001",1959-01-01,2023-03-01
-5,USWTRADE,2,FRED-MD,"All Employees, Wholesale Trade",M,Thous. of Persons,SA,2023-05-05 07:45:08-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES4142000001",1959-01-01,2023-03-01
-5,USTRADE,2,FRED-MD,"All Employees, Retail Trade",M,Thous. of Persons,SA,2023-05-05 07:45:06-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES4200000001",1959-01-01,2023-03-01
-5,USFIRE,2,FRED-MD,"All Employees, Financial Activities",M,Thous. of Persons,SA,2023-05-05 07:45:06-05,"The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES5500000001",1959-01-01,2023-03-01
-5,USGOVT,2,FRED-MD,"All Employees, Government",M,Thous. of Persons,SA,2023-05-05 07:45:05-05,"Government employment covers only civilian employees; military personnel are excluded. Employees of the Central Intelligence Agency, the National Security Agency, the National Imagery and Mapping Agency, and the Defense Intelligence Agency also are excluded. Postal Services are included.
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 
 Handbook of Methods Establishment Survey - (http://www.bls.gov/opub/hom/pdf/homch2.pdf)
 
@@ -322,13 +172,8 @@ Frequently Asked Questions - (http://stats.bls.gov:80/cps/cps_faq.htm)
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
-<<<<<<< HEAD
 The source code is: CES9000000001",1959-01-01,2023-03-01
 1,CES0600000007,2,FRED-MD,"Average Weekly Hours of Production and Nonsupervisory Employees, Goods-Producing",M,Hours,SA,2023-06-02 07:47:18-05,"Average weekly hours relate to the average hours per worker for which pay was received and is different from standard or scheduled hours. Factors such as unpaid absenteeism, labor turnover, part-time work, and stoppages cause average weekly hours to be lower than scheduled hours of work for an establishment. Group averages further reflect changes in the workweek of component industries. Average weekly hours are the total weekly hours divided by the employees paid for those hours.
-=======
-The source code is: CES9000000001",1959-01-01,2023-03-01
-1,CES0600000007,2,FRED-MD,"Average Weekly Hours of Production and Nonsupervisory Employees, Goods-Producing",M,Hours,SA,2023-05-05 07:45:16-05,"Average weekly hours relate to the average hours per worker for which pay was received and is different from standard or scheduled hours. Factors such as unpaid absenteeism, labor turnover, part-time work, and stoppages cause average weekly hours to be lower than scheduled hours of work for an establishment. Group averages further reflect changes in the workweek of component industries. Average weekly hours are the total weekly hours divided by the employees paid for those hours.
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 
 Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
 
@@ -336,7 +181,6 @@ Nonsupervisory employees include those individuals in private, service-providing
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
-<<<<<<< HEAD
 The source code is: CES0600000007",1959-01-01,2023-03-01
 2,AWOTMAN,2,FRED-MD,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing",M,Hours,SA,2023-06-02 07:47:08-05,"Overtime hours represent that portion of average weekly hours that exceeded regular hours and for which overtime premiums were paid. If an employee were to work on a paid holiday at regular rates, receiving as total compensation his holiday pay plus straight-time pay for hours worked that day, no overtime hours would be reported. Overtime hours data are collected only from manufacturing establishments.
 
@@ -344,15 +188,6 @@ The series comes from the 'Current Employment Statistics (Establishment Survey).
 
 The source code is: CES3000000009",1959-01-01,2023-03-01
 1,AWHMAN,2,FRED-MD,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing",M,Hours,SA,2023-06-02 07:47:06-05,"Average weekly hours relate to the average hours per worker for which pay was received and is different from standard or scheduled hours. Factors such as unpaid absenteeism, labor turnover, part-time work, and stoppages cause average weekly hours to be lower than scheduled hours of work for an establishment. Group averages further reflect changes in the workweek of component industries. Average weekly hours are the total weekly hours divided by the employees paid for those hours.
-=======
-The source code is: CES0600000007",1959-01-01,2023-03-01
-2,AWOTMAN,2,FRED-MD,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing",M,Hours,SA,2023-05-05 07:45:11-05,"Overtime hours represent that portion of average weekly hours that exceeded regular hours and for which overtime premiums were paid. If an employee were to work on a paid holiday at regular rates, receiving as total compensation his holiday pay plus straight-time pay for hours worked that day, no overtime hours would be reported. Overtime hours data are collected only from manufacturing establishments.
-
-The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES3000000009",1959-01-01,2023-03-01
-1,AWHMAN,2,FRED-MD,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing",M,Hours,SA,2023-05-05 07:45:06-05,"Average weekly hours relate to the average hours per worker for which pay was received and is different from standard or scheduled hours. Factors such as unpaid absenteeism, labor turnover, part-time work, and stoppages cause average weekly hours to be lower than scheduled hours of work for an establishment. Group averages further reflect changes in the workweek of component industries. Average weekly hours are the total weekly hours divided by the employees paid for those hours.
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 
 Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
 
@@ -360,7 +195,6 @@ Nonsupervisory employees include those individuals in private, service-providing
 
 The series comes from the 'Current Employment Statistics (Establishment Survey).'
 
-<<<<<<< HEAD
 The source code is: CES3000000007",1959-01-01,2023-03-01
 4,HOUST,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units,M,Thous. of Units,SAAR,2023-05-17 07:31:02-05,"As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation.",1959-01-01,2023-03-01
 4,HOUSTNE,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region,M,Thous. of Units,SAAR,2023-05-17 07:31:22-05,,1959-01-01,2023-03-01
@@ -378,39 +212,15 @@ The source code is: CES3000000007",1959-01-01,2023-03-01
 5,AMDMUOx,4,FRED-MD,Unfilled Orders for Durable Goods,,,,,,1959-01-01,2023-03-01
 5,BUSINVx,4,FRED-MD,Total Business Inventories,,,,,,1959-01-01,2023-02-01
 2,ISRATIOx,4,FRED-MD,Total Business:  Inventories to Sales Ratio,,,,,,1959-01-01,2023-02-01
-=======
-The source code is: CES3000000007",1959-01-01,2023-03-01
-4,HOUST,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units,M,Thous. of Units,SAAR,2023-05-17 07:31:02-05,"As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation.",1959-01-01,2023-03-01
-4,HOUSTNE,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region,M,Thous. of Units,SAAR,2023-05-17 07:31:22-05,,1959-01-01,2023-03-01
-4,HOUSTMW,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region,M,Thous. of Units,SAAR,2023-05-17 07:31:21-05,,1959-01-01,2023-03-01
-4,HOUSTS,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units in the South Census Region,M,Thous. of Units,SAAR,2023-05-17 07:31:21-05,,1959-01-01,2023-03-01
-4,HOUSTW,3,FRED-MD,New Privately-Owned Housing Units Started: Total Units in the West Census Region,M,Thous. of Units,SAAR,2023-05-17 07:31:21-05,,1959-01-01,2023-03-01
-4,PERMIT,3,FRED-MD,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,M,Thous. of Units,SAAR,2023-05-23 07:02:03-05,"Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.",1960-01-01,2023-03-01
-4,PERMITNE,3,FRED-MD,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region,M,Thous. of Units,SAAR,2023-05-23 07:02:15-05,"Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.",1960-01-01,2023-03-01
-4,PERMITMW,3,FRED-MD,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region,M,Thous. of Units,SAAR,2023-05-23 07:02:16-05,"Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.",1960-01-01,2023-03-01
-4,PERMITS,3,FRED-MD,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the South Census Region,M,Thous. of Units,SAAR,2023-05-23 07:02:15-05,"Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.",1960-01-01,2023-03-01
-4,PERMITW,3,FRED-MD,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region,M,Thous. of Units,SAAR,2023-05-23 07:02:16-05,"Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.",1960-01-01,2023-03-01
-5,ACOGNO,4,FRED-MD,Manufacturers' New Orders: Consumer Goods,M,Mil. of $,SA,2023-05-12 13:37:56-05,This series is a topical regrouping of the separate industry categories.,1992-02-01,2023-02-01
-5,AMDMNOx,4,FRED-MD,New Orders for Durable Goods,,,,,,1959-01-01,2023-03-01
-5,ANDENOx,4,FRED-MD,New Orders for Nondefense Capital Goods,,,,,,1968-02-01,2023-03-01
-5,AMDMUOx,4,FRED-MD,Unfilled Orders for Durable Goods,,,,,,1959-01-01,2023-03-01
-5,BUSINVx,4,FRED-MD,Total Business Inventories,,,,,,1959-01-01,2023-02-01
-2,ISRATIOx,4,FRED-MD,Total Business:  Inventories to Sales Ratio,,,,,,1959-01-01,2023-02-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 6,M1SL,5,FRED-MD,M1,M,Bil. of $,SA,2023-05-23 12:02:06-05,"Before May 2020, M1 consists of (1) currency outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions; (2) demand deposits at commercial banks (excluding those amounts held by depository institutions, the U.S. government, and foreign banks and official institutions) less cash items in the process of collection and Federal Reserve float; and (3) other checkable deposits (OCDs), consisting of negotiable order of withdrawal, or NOW, and automatic transfer service, or ATS, accounts at depository institutions, share draft accounts at credit unions, and demand deposits at thrift institutions.
 
 Beginning May 2020, M1 consists of (1) currency outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions; (2) demand deposits at commercial banks (excluding those amounts held by depository institutions, the U.S. government, and foreign banks and official institutions) less cash items in the process of collection and Federal Reserve float; and (3) other liquid deposits, consisting of OCDs and savings deposits (including money market deposit accounts). Seasonally adjusted M1 is constructed by summing currency, demand deposits, and OCDs (before May 2020) or other liquid deposits (beginning May 2020), each seasonally adjusted separately.
 
-<<<<<<< HEAD
 For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.",1959-01-01,2023-03-01
-=======
-For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.",1959-01-01,2023-03-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 6,M2SL,5,FRED-MD,M2,M,Bil. of $,SA,2023-05-23 12:02:03-05,"Before May 2020, M2 consists of M1 plus (1) savings deposits (including money market deposit accounts); (2) small-denomination time deposits (time deposits in amounts of less than $100,000) less individual retirement account (IRA) and Keogh balances at depository institutions; and (3) balances in retail money market funds (MMFs) less IRA and Keogh balances at MMFs.
 
 Beginning May 2020, M2 consists of M1 plus (1) small-denomination time deposits (time deposits in amounts of less than $100,000) less IRA and Keogh balances at depository institutions; and (2) balances in retail MMFs less IRA and Keogh balances at MMFs. Seasonally adjusted M2 is constructed by summing savings deposits (before May 2020), small-denomination time deposits, and retail MMFs, each seasonally adjusted separately, and adding this result to seasonally adjusted M1.
 
-<<<<<<< HEAD
 For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.",1959-01-01,2023-03-01
 5,M2REAL,5,FRED-MD,Real M2 Money Stock,M,Bil. of 1982-84 $,SA,2023-05-23 12:14:02-05,This series deflates M2 money stock (https://fred.stlouisfed.org/series/M2SL) with CPI (https://fred.stlouisfed.org/series/CPIAUCSL).,1959-01-01,2023-03-01
 6,BOGMBASE,5,FRED-MD,Monetary Base; Total,M,Mil. of $,NSA,2023-05-23 12:03:05-05,"The Board of Governors consolidated this series onto the Statistical Release H.6, ""Money Stock Measures"", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).
@@ -430,27 +240,6 @@ Equals total reserves (TOTRESNS) (https://fred.stlouisfed.org/series/TOTRESNS), 
 5,S&P: indust,8,FRED-MD,S&P's Common Stock Price Index: Industrials,,,,,,1959-01-01,2023-03-01
 2,S&P div yield,8,FRED-MD,S&P's Composite Common Stock: Dividend Yield,,,,,,1959-01-01,2023-03-01
 5,S&P PE ratio,8,FRED-MD,S&P's Composite Common Stock: Price-Earnings Ratio,,,,,,1959-01-01,2023-01-01
-=======
-For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.",1959-01-01,2023-03-01
-5,M2REAL,5,FRED-MD,Real M2 Money Stock,M,Bil. of 1982-84 $,SA,2023-05-23 12:14:02-05,This series deflates M2 money stock (https://fred.stlouisfed.org/series/M2SL) with CPI (https://fred.stlouisfed.org/series/CPIAUCSL).,1959-01-01,2023-03-01
-6,BOGMBASE,5,FRED-MD,Monetary Base; Total,M,Mil. of $,NSA,2023-05-23 12:03:05-05,"The Board of Governors consolidated this series onto the Statistical Release H.6, ""Money Stock Measures"", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).
-
-The series equals total balances maintained plus currency in circulation.",1959-01-01,2023-03-01
-6,TOTRESNS,5,FRED-MD,Reserves of Depository Institutions: Total,M,Bil. of $,NSA,2023-05-23 12:02:08-05,"The Board of Governors consolidated this series onto the Statistical Release H.6, ""Money Stock Measures"", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).
-
-This series is a sum of total reserve balances maintained plus vault cash used to satisfy required reserves.",1959-01-01,2023-03-01
-7,NONBORRES,5,FRED-MD,"Reserves of Depository Institutions, Nonborrowed",M,Mil. of $,NSA,2023-05-23 12:02:14-05,"The Board of Governors consolidated this series onto the Statistical Release H.6, ""Money Stock Measures"", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).
-
-Equals total reserves (TOTRESNS) (https://fred.stlouisfed.org/series/TOTRESNS), less total borrowings from the Federal Reserve (BORROW) (https://fred.stlouisfed.org/series/BORROW).",1959-01-01,2023-03-01
-6,BUSLOANS,5,FRED-MD,"Commercial and Industrial Loans, All Commercial Banks",M,Bil. of U.S. $,SA,2023-05-26 15:33:02-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H8 release (http://www.federalreserve.gov/releases/h8/).",1959-01-01,2023-03-01
-6,REALLN,5,FRED-MD,"Real Estate Loans, All Commercial Banks",M,Bil. of U.S. $,SA,2023-05-26 15:33:09-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/.",1959-01-01,2023-03-01
-6,NONREVSL,5,FRED-MD,Nonrevolving Consumer Credit Owned and Securitized,M,Bil. of $,SA,2023-05-05 14:02:08-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/.",1959-01-01,2023-02-01
-2,CONSPI,5,FRED-MD,Nonrevolving consumer credit to Personal Income,,,,,,1959-01-01,2023-02-01
-5,S&P 500,8,FRED-MD,S&P's Common Stock Price Index: Composite(S&P 500),,,,,,1959-01-01,2023-03-01
-5,S&P: indust,8,FRED-MD,S&P's Common Stock Price Index: Industrials,,,,,,1959-01-01,2023-03-01
-2,S&P div yield,8,FRED-MD,S&P's Composite Common Stock: Dividend Yield,,,,,,1959-01-01,2023-03-01
-5,S&P PE ratio,8,FRED-MD,S&P's Composite Common Stock: Price-Earnings Ratio,,,,,,1959-01-01,2023-01-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
 2,FEDFUNDS,6,FRED-MD,Federal Funds Effective Rate,M,%,NSA,2023-06-01 15:21:02-05,"Averages of daily figures. 
 
 For additional historical federal funds rate data, please see  Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
@@ -460,7 +249,6 @@ The Federal Open Market Committee (FOMC) meets eight times a year to determine t
 The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
 References
 (1) Federal Reserve Bank of New York. ""Federal funds."" Fedpoints, August 2007.
-<<<<<<< HEAD
 (2) Board of Governors of the Federal Reserve System. ""Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm)"".",1959-01-01,2023-03-01
 2,CP3Mx,6,FRED-MD,3-Month AA Financial Commercial Paper Rate,,,,,,1959-01-01,2023-03-01
 2,TB3MS,6,FRED-MD,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-06-01 15:21:08-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
@@ -685,258 +473,3 @@ The total market indexes are total market returns, which do include reinvested d
 1,5Y1Y,6,FRED,5Y minus 1Y,M,%p,NSA,,,1959-01-01,2023-03-01
 1,10Y1Y,6,FRED,10Y minus 1Y,M,%p,NSA,,,1959-01-01,2023-03-01
 1,10Y5Y,6,FRED,10Y minus 5Y,M,%p,NSA,,,1959-01-01,2023-03-01
-=======
-(2) Board of Governors of the Federal Reserve System. ""Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm)"".",1959-01-01,2023-03-01
-2,CP3Mx,6,FRED-MD,3-Month AA Financial Commercial Paper Rate,,,,,,1959-01-01,2023-03-01
-2,TB3MS,6,FRED-MD,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-06-01 15:21:08-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
-2,TB6MS,6,FRED-MD,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",M,%,NSA,2023-06-01 15:21:19-05,"Averages of Business Days, Discount Basis",1959-01-01,2023-03-01
-2,GS1,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:13-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,GS5,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:14-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,GS10,6,FRED-MD,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",M,%,NSA,2023-06-01 15:21:10-05,"Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).",1959-01-01,2023-03-01
-2,AAA,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Yield,M,%,NSA,2023-06-01 10:16:02-05,"These instruments are based on bonds with maturities 20 years and above. 
-
-© 2017, Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “Moody’s”).  All rights reserved. Moody’s ratings and other information (“Moody’s Information”) are proprietary to Moody’s and/or its licensors and are protected by copyright and other intellectual property laws.  Moody’s Information is licensed to Client by Moody’s.  MOODY’S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT.",1959-01-01,2023-03-01
-2,BAA,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Yield,M,%,NSA,2023-06-01 10:16:03-05,"These instruments are based on bonds with maturities 20 years and above. 
-
-© 2017, Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “Moody’s”).  All rights reserved. Moody’s ratings and other information (“Moody’s Information”) are proprietary to Moody’s and/or its licensors and are protected by copyright and other intellectual property laws.  Moody’s Information is licensed to Client by Moody’s.  MOODY’S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT.",1959-01-01,2023-03-01
-1,COMPAPFFx,6,FRED-MD,3-Month Commercial Paper Minus FEDFUNDS,,,,,,1959-01-01,2023-03-01
-1,TB3SMFFM,6,FRED-MD,3-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:03-05,"Series is calculated as the spread between 3-Month Treasury Bill: Secondary Market Rate (ROUND_B1_CLOSE_13WK_2M)) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,TB6SMFFM,6,FRED-MD,6-Month Treasury Bill Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:06-05,Series is calculated as the spread between 6-Month Treasury Bill: Secondary Market Rate (https://fred.stlouisfed.org/series/TB6MS) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/FEDFUNDS).,1959-01-01,2023-03-01
-1,T1YFFM,6,FRED-MD,1-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between 1-Year Treasury Constant Maturity (BC_1YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,T5YFFM,6,FRED-MD,5-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between 5-Year Treasury Constant Maturity (BC_5YEAR) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFR).
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,T10YFFM,6,FRED-MD,10-Year Treasury Constant Maturity Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:05-05,"Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEARM) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,AAAFFM,6,FRED-MD,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:08-05,"Series is calculated as the spread between Moody's Seasoned Aaa Corporate Bond© (https://fred.stlouisfed.org/series/AAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
-
-©2017, Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""Moody's""). All rights reserved. Moody's ratings and other information (""Moody's Information"") are proprietary to Moody's and/or its licensors and are protected by copyright and other intellectual property laws. Moody's Information is licensed to Client by Moody's. MOODY'S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-1,BAAFFM,6,FRED-MD,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,M,%,NSA,2023-06-01 16:01:06-05,"Series is calculated as the spread between Moody's Seasoned Baa Corporate Bond© (https://fred.stlouisfed.org/series/BAA) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/EFFRM).
-
-©2017, Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""Moody's""). All rights reserved. Moody's ratings and other information (""Moody's Information"") are proprietary to Moody's and/or its licensors and are protected by copyright and other intellectual property laws. Moody's Information is licensed to Client by Moody's. MOODY'S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
-Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",1959-01-01,2023-03-01
-5,TWEXAFEGSMTHx,6,FRED-MD,Trade Weighted U.S. Dollar Index,,,,,,1973-01-01,2023-03-01
-5,EXSZUSx,6,FRED-MD,Switzerland / U.S. Foreign Exchange Rate,,,,,,1959-01-01,2023-03-01
-5,EXJPUSx,6,FRED-MD,Japan / U.S. Foreign Exchange Rate,,,,,,1959-01-01,2023-03-01
-5,EXUSUKx,6,FRED-MD,U.S. / U.K. Foreign Exchange Rate,,,,,,1959-01-01,2023-03-01
-5,EXCAUSx,6,FRED-MD,Canada / U.S. Foreign Exchange Rate,,,,,,1959-01-01,2023-03-01
-6,WPSFD49207,7,FRED-MD,Producer Price Index by Commodity: Final Demand: Finished Goods,M,Index 1982=100,SA,2023-05-11 07:54:06-05,,1959-01-01,2023-03-01
-6,WPSFD49502,7,FRED-MD,Producer Price Index by Commodity: Final Demand: Personal Consumption Goods (Finished Consumer Goods),M,Index 1982=100,SA,2023-05-11 07:53:18-05,,1959-01-01,2023-03-01
-6,WPSID61,7,FRED-MD,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand,M,Index 1982=100,SA,2023-05-11 07:53:13-05,,1959-01-01,2023-03-01
-6,WPSID62,7,FRED-MD,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand,M,Index 1982=100,SA,2023-05-11 07:53:27-05,,1959-01-01,2023-03-01
-6,OILPRICEx,7,FRED-MD,"Crude Oil, spliced WTI and Cushing",,,,,,1959-01-01,2023-03-01
-6,PPICMM,7,FRED-MD,Producer Price Index by Commodity: Metals and Metal Products: Primary Nonferrous Metals,M,Index 1982=100,NSA,2023-05-11 07:52:26-05,,1959-01-01,2023-03-01
-6,CPIAUCSL,7,FRED-MD,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:02-05,"The Consumer Price Index for All Urban Consumers: All Items (CPIAUCSL) is a price index of a basket of goods and services paid by urban consumers. Percent changes in the price index measure the inflation rate between any two time periods. The most common inflation metric is the percent change from one year ago. It can also represent the buying habits of urban consumers. This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers, technical workers, self-employed, short-term workers, unemployed, retirees, and those not in the labor force.
-
-The CPIs are based on prices for food, clothing, shelter, and fuels; transportation fares; service fees (e.g., water and sewer service); and sales taxes. Prices are collected monthly from about 4,000 housing units and approximately 26,000 retail establishments across 87 urban areas. To calculate the index, price changes are averaged with weights representing their importance in the spending of the particular group. The index measures price changes (as a percent change) from a predetermined reference date. In addition to the original unadjusted index distributed, the Bureau of Labor Statistics also releases a seasonally adjusted index. The unadjusted series reflects all factors that may influence a change in prices. However, it can be very useful to look at the seasonally adjusted CPI, which removes the effects of seasonal changes, such as weather, school year, production cycles, and holidays.
-
-The CPI can be used to recognize periods of inflation and deflation. Significant increases in the CPI within a short time frame might indicate a period of inflation, and significant decreases in CPI within a short time frame might indicate a period of deflation. However, because the CPI includes volatile food and oil prices, it might not be a reliable measure of inflationary and deflationary periods. For a more accurate detection, the core CPI (CPILFESL (https://fred.stlouisfed.org/series/CPILFESL)) is often used. When using the CPI, please note that it is not applicable to all consumers and should not be used to determine relative living costs. Additionally, the CPI is a statistical measure vulnerable to sampling error since it is based on a sample of prices and not the complete average.
-
-For more information on the consumer price indexes, see:  
-Bureau of Economic Analysis. ""CPI Detailed Report."" (https://www.bls.gov/cpi/) 2013.  
-Handbook of Methods (https://www.bls.gov/opub/hom/pdf/cpihom.pdf)  
-Understanding the CPI: Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm)",1959-01-01,2023-03-01
-6,CPIAPPSL,7,FRED-MD,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:41:02-05,,1959-01-01,2023-03-01
-6,CPITRNSL,7,FRED-MD,Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:40-05,,1959-01-01,2023-03-01
-6,CPIMEDSL,7,FRED-MD,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:33-05,,1959-01-01,2023-03-01
-6,CUSR0000SAC,7,FRED-MD,Consumer Price Index for All Urban Consumers: Commodities in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:52-05,,1959-01-01,2023-03-01
-6,CUSR0000SAD,7,FRED-MD,Consumer Price Index for All Urban Consumers: Durables in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:38-05,,1959-01-01,2023-03-01
-6,CUSR0000SAS,7,FRED-MD,Consumer Price Index for All Urban Consumers: Services in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:41-05,,1959-01-01,2023-03-01
-6,CPIULFSL,7,FRED-MD,Consumer Price Index for All Urban Consumers: All Items Less Food in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:41:09-05,Handbook of Methods - (https://www.bls.gov/opub/hom/pdf/cpihom.pdf) Understanding the CPI: Frequently Asked Questions - (http://stats.bls.gov:80/cpi/cpifaq.htm),1959-01-01,2023-03-01
-6,CUSR0000SA0L2,7,FRED-MD,Consumer Price Index for All Urban Consumers: All Items Less Shelter in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:43-05,,1959-01-01,2023-03-01
-6,CUSR0000SA0L5,7,FRED-MD,Consumer Price Index for All Urban Consumers: All Items Less Medical Care in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:41:13-05,,1959-01-01,2023-03-01
-6,PCEPI,7,FRED-MD,Personal Consumption Expenditures: Chain-type Price Index,M,Index 2012=100,SA,2023-05-26 07:43:07-05,"BEA Account Code: DPCERG
-
-The Personal Consumption Expenditures Price Index is a measure of the prices that people living in the United States, or those buying on their behalf, pay for goods and services. The change in the PCE price index is known for capturing inflation (or deflation) across a wide range of consumer expenses and reflecting changes in consumer behavior. For example, if the price of beef rises, shoppers may buy less beef and more chicken. 
-
-The PCE Price Index is produced by the Bureau of Economic Analysis (BEA), which revises previously published PCE data to reflect updated information or new methodology, providing consistency across decades of data that's valuable for researchers. They also offer the series as a Chain-Type index, as above. The PCE price index is used primarily for macroeconomic analysis and forecasting.
-
-The PCE Price index is the Federal Reserve’s preferred measure of inflation. The PCE Price Index is similar to the Bureau of Labor Statistics' consumer price index for urban consumers. The two indexes, which have their own purposes and uses, are constructed differently, resulting in different inflation rates. 
-
-For more information on the PCE price index, see:
-U.S. Bureau of Economic Analysis, Guide to the National Income and Product Accounts of the United States (NIPA) (https://www.bea.gov/national/pdf/nipaguid.pdf) 
-U.S. Bureau of Economic Analysis, Personal Consumption Expenditures Price Index (https://www.bea.gov/data/personal-consumption-expenditures-price-index)
-U.S. Bureau of Economic Analysis, Prices & Inflation (https://www.bea.gov/resources/learning-center/what-to-know-prices-inflation)
-U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index and the Personal Consumption Expenditure Price Index (https://www.bls.gov/opub/btn/archive/differences-between-the-consumer-price-index-and-the-personal-consumption-expenditures-price-index.pdf)",1959-01-01,2023-03-01
-6,DDURRG3M086SBEA,7,FRED-MD,Personal consumption expenditures: Durable goods (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:26-05,"BEA Account Code: DDURRG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-03-01
-6,DNDGRG3M086SBEA,7,FRED-MD,Personal consumption expenditures: Nondurable goods (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:29-05,"BEA Account Code: DNDGRG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-03-01
-6,DSERRG3M086SBEA,7,FRED-MD,Personal consumption expenditures: Services (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:25-05,"BEA Account Code: DSERRG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-03-01
-6,CES0600000008,2,FRED-MD,"Average Hourly Earnings of Production and Nonsupervisory Employees, Goods-Producing",M,$ per Hour,SA,2023-05-05 07:45:16-05,"Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
-#Nonsupervisory employees include those individuals in private, service-providing industries who are not above the working-supervisor level. This group includes individuals such as office and clerical workers, repairers, salespersons, operators, drivers, physicians, lawyers, accountants, nurses, social workers, research aides, teachers, drafters, photographers, beauticians, musicians, restaurant workers, custodial workers, attendants, line installers and repairers, laborers, janitors, guards, and other employees at similar occupational levels whose services are closely associated with those of the employees listed.
-
-The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES0600000008",1959-01-01,2023-03-01
-6,CES2000000008,2,FRED-MD,"Average Hourly Earnings of Production and Nonsupervisory Employees, Construction",M,$ per Hour,SA,2023-05-05 07:45:13-05,"Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
-#Nonsupervisory employees include those individuals in private, service-providing industries who are not above the working-supervisor level. This group includes individuals such as office and clerical workers, repairers, salespersons, operators, drivers, physicians, lawyers, accountants, nurses, social workers, research aides, teachers, drafters, photographers, beauticians, musicians, restaurant workers, custodial workers, attendants, line installers and repairers, laborers, janitors, guards, and other employees at similar occupational levels whose services are closely associated with those of the employees listed.
-
-The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES2000000008",1959-01-01,2023-03-01
-6,CES3000000008,2,FRED-MD,"Average Hourly Earnings of Production and Nonsupervisory Employees, Manufacturing",M,$ per Hour,SA,2023-05-05 07:45:10-05,"Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
-#Nonsupervisory employees include those individuals in private, service-providing industries who are not above the working-supervisor level. This group includes individuals such as office and clerical workers, repairers, salespersons, operators, drivers, physicians, lawyers, accountants, nurses, social workers, research aides, teachers, drafters, photographers, beauticians, musicians, restaurant workers, custodial workers, attendants, line installers and repairers, laborers, janitors, guards, and other employees at similar occupational levels whose services are closely associated with those of the employees listed.
-
-The series comes from the 'Current Employment Statistics (Establishment Survey).'
-
-The source code is: CES3000000008",1959-01-01,2023-03-01
-2,UMCSENTx,9,FRED-MD,Consumer Sentiment Index,,,,,,1959-05-01,2023-03-01
-6,DTCOLNVHFNM,5,FRED-MD,"Consumer Motor Vehicle Loans Owned by Finance Companies, Level",M,Mil. of $,NSA,2023-05-23 14:18:02-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ .",1959-01-01,2023-02-01
-6,DTCTHFNM,5,FRED-MD,"Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level",M,Mil. of $,NSA,2023-05-23 14:18:02-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ .",1959-01-01,2023-02-01
-6,INVEST,5,FRED-MD,"Securities in Bank Credit, All Commercial Banks",M,Bil. of U.S. $,SA,2023-05-26 15:33:23-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/.",1959-01-01,2023-03-01
-1,VIXCLSx,9,FRED-MD,VIX,,,,,,1962-07-01,2023-03-01
-1,EPU,9,EPU,Economic Policy Uncertainty Index,,,,,,1985-01-01,2023-03-01
-1,CLI_MA,0,OECD,Amplitude adjusted (CLI),,,,,,1959-01-01,2023-03-01
-1,CLI_N,0,OECD,Normalised (CLI),,,,,,1959-01-01,2023-03-01
-1,CLI_T,0,OECD,Trend restored (CLI),,,,,,1959-01-01,2023-02-01
-1,BCI,9,OECD,"OECD Standardised BCI, Amplitude adjusted (Long term average=100), sa",,,,,,1959-01-01,2023-03-01
-1,CCI,9,OECD,"OECD Standardised CCI, Amplitude adjusted (Long term average=100), sa",,,,,,1960-01-01,2023-03-01
-1,GDP_RTT,0,OECD,Ratio to trend (GDP),,,,,,1959-01-01,2023-02-01
-1,GDP_N,0,OECD,Normalised (GDP),,,,,,1959-01-01,2023-02-01
-1,GDP_T,0,OECD,Trend (GDP),,,,,,1959-01-01,2023-02-01
-1,BS_PRO,9,OECD,business survey(manufacturing):  Production    Tendency,,,,,,1959-01-01,2023-04-01
-1,BS_OB,9,OECD,business survey(manufacturing):  Order books    Level,,,,,,1993-01-01,2023-04-01
-1,BS_OI,9,OECD,business survey(manufacturing):  Orders inflow    Tendency,,,,,,1959-01-01,2023-04-01
-1,BS_EX,9,OECD,business survey(manufacturing):  Export orders books or demand    Level,,,,,,1990-01-01,2023-04-01
-1,BS_EM,9,OECD,business survey(manufacturing):  Employment    Future tendency,,,,,,1959-01-01,2023-04-01
-1,BS_CU,9,OECD,business survey(manufacturing):  Capacity utilisation    Rate of capacity utilisation,,,,,,1967-01-01,2023-03-01
-1,BSI,9,OECD,business survey(manufacturing):  Confidence indicators,,,,,,1959-01-01,2023-04-01
-1,CS_ECON,9,OECD,consumer opinion:  Economic situation    Future tendency,,,,,,1978-01-01,2023-04-01
-1,CSI,9,OECD,consumer opinion:  Confidence indicators    National indicator,,,,,,1960-01-01,2023-04-01
-1,CS_INF,9,OECD,consumer opinion:  Consumer prices (inflation)    Future tendency,,,,,,1978-01-01,2023-04-01
-1,y_nber,0,NBER,1 FOR RECESSION 0 FOR NON-RECESSION,,,,,,1959-01-01,2023-04-01
-1,y_oecd,0,OECD,1 FOR RECESSION 0 FOR NON-RECESSION,,,,,,1959-01-01,2023-04-01
-1,y_agg,0,-,"2 for recession in both nber, oecd, 1 FOR RECESSION in any one of nber, oecd, 0 for non-recession",,,,,,1959-01-01,2023-04-01
-1,H8B1001NCBCMG,10,FRED,"Bank Credit, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:12-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1002NCBCMG,10,FRED,"Securities in Bank Credit, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:56-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1003NCBCMG,10,FRED,"Treasury and Agency Securities, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:51-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1023NCBCMG,10,FRED,"Commercial and Industrial Loans, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:11-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1026NCBCMG,10,FRED,"Real Estate Loans, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:21-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1029NCBCMG,10,FRED,"Consumer Loans, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:20-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1959-01-01,2023-04-01
-1,H8B1047NCBCMG,10,FRED,"Loans to Commercial Banks, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-12 15:40:16-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B1048NCBCMG,10,FRED,"Cash Assets, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-19 15:35:14-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B1058NCBCMG,10,FRED,"Deposits, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:07-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B1091NCBCMG,10,FRED,"Residual (Assets Less Liabilities), All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:37:44-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B1151NCBCMG,10,FRED,"Total Assets, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:21-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B1152NCBCMG,10,FRED,"Total Liabilities, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:22-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B3053NCBCMG,10,FRED,"Other Assets, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:39:01-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B3092NCBCMG,10,FRED,"Total Fed Funds Sold and Securities Purchased Under Agreements to Resell, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-19 15:35:33-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",2010-02-01,2023-04-01
-1,H8B3094NCBCMG,10,FRED,"Borrowings, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:36:46-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B3095NCBCMG,10,FRED,"Other Liabilities, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:33:46-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,H8B3305NCBCMG,10,FRED,"Other Loans and Leases: All Other Loans and Leases, All Commercial Banks",M,% Chg. at Annual Rate,SA,2023-05-26 15:39:01-05,"For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)",1973-02-01,2023-04-01
-1,CPIEDUSL,7,FRED,Consumer Price Index for All Urban Consumers: Education and Communication in U.S. City Average,M,Index Dec 1997=100,SA,2023-05-10 07:40:34-05,,1993-01-01,2023-04-01
-1,CPIFABSL,7,FRED,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:36-05,,1967-01-01,2023-04-01
-1,CPIHOSSL,7,FRED,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:40:39-05,,1967-01-01,2023-04-01
-1,CPIOGSSL,7,FRED,Consumer Price Index for All Urban Consumers: Other Goods and Services in U.S. City Average,M,Index 1982-1984=100,SA,2023-05-10 07:42:01-05,,1967-01-01,2023-04-01
-1,CPIRECSL,7,FRED,Consumer Price Index for All Urban Consumers: Recreation in U.S. City Average,M,Index Dec 1997=100,SA,2023-05-10 07:40:49-05,,1993-01-01,2023-04-01
-1,CPIAPPNS,7,FRED,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:41:06-05,,1959-01-01,2023-04-01
-1,CPIAUCNS,7,FRED,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:40:22-05,"Handbook of Methods (https://www.bls.gov/opub/hom/pdf/cpihom.pdf)
-Understanding the CPI: Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm)",1959-01-01,2023-04-01
-1,CPIEDUNS,7,FRED,Consumer Price Index for All Urban Consumers: Education and Communication in U.S. City Average,M,Index Dec 1997=100,NSA,2023-05-10 07:41:13-05,,1993-01-01,2023-04-01
-1,CPIFABNS,7,FRED,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:41:08-05,,1967-01-01,2023-04-01
-1,CPIHOSNS,7,FRED,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:40:35-05,,1967-01-01,2023-04-01
-1,CPIMEDNS,7,FRED,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:40:52-05,,1959-01-01,2023-04-01
-1,CPIOGSNS,7,FRED,Consumer Price Index for All Urban Consumers: Other Goods and Services in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:42:02-05,,1967-01-01,2023-04-01
-1,CPIRECNS,7,FRED,Consumer Price Index for All Urban Consumers: Recreation in U.S. City Average,M,Index Dec 1997=100,NSA,2023-05-10 07:41:12-05,,1993-01-01,2023-04-01
-1,CPITRNNS,7,FRED,Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average,M,Index 1982-1984=100,NSA,2023-05-10 07:41:11-05,,1959-01-01,2023-04-01
-1,DFXARG3M086SBEA,7,FRED,Personal consumption expenditures: Food (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:32-05,"BEA Account Code: DFXARG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-04-01
-1,DGDSRG3M086SBEA,7,FRED,Personal consumption expenditures: Goods (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:28-05,"BEA Account Code: DGDSRG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-04-01
-1,DNRGRG3M086SBEA,7,FRED,Personal consumption expenditures: Energy goods and services (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:31-05,"BEA Account Code: DNRGRG
-For more information about this series, please see http://www.bea.gov/national/.",1959-01-01,2023-04-01
-1,DPCMRG3M086SBEA,7,FRED,Personal consumption expenditures: Market-based (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:38-05,"BEA Account Code: DPCMRG
-For more information about this series, please see http://www.bea.gov/national/.",1987-01-01,2023-04-01
-1,DPCXRG3M086SBEA,7,FRED,Personal consumption expenditures: Market-based PCE excluding food and energy (chain-type price index),M,Index 2012=100,SA,2023-05-26 07:43:32-05,"BEA Account Code: DPCXRG
-For more information about this series, please see http://www.bea.gov/national/.",1987-01-01,2023-04-01
-1,PCEPILFE,7,FRED,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),M,Index 2012=100,SA,2023-05-26 07:43:09-05,"BEA Account Code: DPCCRG
-
-The Personal Consumption Expenditures Price Index is a measure of the prices that people living in the United States, or those buying on their behalf, pay for goods and services. The change in the PCE price index is known for capturing inflation (or deflation) across a wide range of consumer expenses and reflecting changes in consumer behavior. For example, if car prices rise, car sales may decline while bicycle sales increase. 
-
-The PCE Price Index is produced by the Bureau of Economic Analysis (BEA), which revises previously published PCE data to reflect updated information or new methodology, providing consistency across decades of data that's valuable for researchers. They also offer the series as a Chain-Type index and excluding food and energy products, as above. The PCE price index less food excluding food and energy is used primarily for macroeconomic analysis and forecasting future values of the PCE price index.
-
-The PCE Price Index is similar to the Bureau of Labor Statistics' consumer price index for urban consumers. The two indexes, which have their own purposes and uses, are constructed differently, resulting in different inflation rates.
-
-For more information on the PCE price index, see:
-U.S. Bureau of Economic Analysis, Guide to the National Income and Product Accounts of the United States (NIPA) (https://www.bea.gov/national/pdf/nipaguid.pdf) 
-U.S. Bureau of Economic Analysis, Personal Consumption Expenditures Price Index (https://www.bea.gov/data/personal-consumption-expenditures-price-index)
-U.S. Bureau of Economic Analysis, Prices & Inflation (https://www.bea.gov/resources/learning-center/what-to-know-prices-inflation)
-U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index and the Personal Consumption Expenditure Price Index (https://www.bls.gov/opub/btn/archive/differences-between-the-consumer-price-index-and-the-personal-consumption-expenditures-price-index.pdf)",1959-01-01,2023-04-01
-1,WPSID611,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Manufacturing,M,Index 1982=100,SA,2023-05-11 07:53:27-05,,1973-01-01,2023-04-01
-1,WPSID612,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Construction,M,Index 1982=100,SA,2023-05-11 07:53:14-05,,1973-01-01,2023-04-01
-1,WPSID613,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants for Intermediate Demand,M,Index 1982=100,SA,2023-05-11 07:55:48-05,,1973-01-01,2023-04-01
-1,WPSID614,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Containers for Intermediate Demand,M,Index 1982=100,SA,2023-05-11 07:57:15-05,,1973-01-01,2023-04-01
-1,WPSID615,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies for Intermediate Demand,M,Index 1982=100,SA,2023-05-11 07:55:48-05,,1976-01-01,2023-04-01
-1,WPSID621,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs,M,Index 1982=100,SA,2023-05-11 07:53:31-05,,1969-01-01,2023-04-01
-1,WPSID6221,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel,M,Index 1982=100,SA,2023-05-11 07:57:15-05,,1973-01-01,2023-04-01
-1,WPSID6222,7,FRED,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel,M,Index 1982=100,SA,2023-05-11 07:57:15-05,,1973-01-01,2023-04-01
-1,WPU03T15M05,7,FRED,PPI,,,,,,1967-01-01,2023-04-01
-1,WPU057,7,FRED,"Producer Price Index by Commodity: Fuels and Related Products and Power: Petroleum Products, Refined",M,Index 1982=100,NSA,2023-05-11 07:53:18-05,,1959-01-01,2023-04-01
-1,WPU061,7,FRED,Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals,M,Index 1982=100,NSA,2023-05-11 07:53:02-05,,1959-01-01,2023-04-01
-1,WPU071,7,FRED,Producer Price Index by Commodity: Rubber and Plastic Products: Rubber and Rubber Products,M,Index 1982=100,NSA,2023-05-11 07:53:13-05,,1967-01-01,2023-04-01
-1,WPU081,7,FRED,Producer Price Index by Commodity: Lumber and Wood Products: Lumber,M,Index 1982=100,NSA,2023-05-11 07:53:03-05,,1959-01-01,2023-04-01
-1,WPU101,7,FRED,Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel,M,Index 1982=100,NSA,2023-05-11 07:52:03-05,,1959-01-01,2023-04-01
-1,WPU102,7,FRED,Producer Price Index by Commodity: Metals and Metal Products: Nonferrous Metals,M,Index 1982=100,NSA,2023-05-11 07:52:15-05,,1959-01-01,2023-04-01
-1,WPU114,7,FRED,Producer Price Index by Commodity: Machinery and Equipment: General Purpose Machinery and Equipment,M,Index 1982=100,NSA,2023-05-11 07:52:10-05,,1959-01-01,2023-04-01
-1,WPU117,7,FRED,Producer Price Index by Commodity: Machinery and Equipment: Electrical Machinery and Equipment,M,Index 1982=100,NSA,2023-05-11 07:52:10-05,,1959-01-01,2023-04-01
-1,WPU1178,7,FRED,Producer Price Index by Commodity: Machinery and Equipment: Electronic Components and Accessories,M,Index 1982=100,NSA,2023-05-11 07:52:18-05,,1965-12-01,2023-04-01
-1,WPU142,7,FRED,Producer Price Index by Commodity: Transportation Equipment: Aircraft and Aircraft Equipment,M,Index 1982=100,NSA,2023-05-11 07:51:23-05,,1971-01-01,2023-04-01
-1,NASDAQCOM,8,FRED,NASDAQ Composite Index,D,"Index Feb 5, 1971=100",NSA,2023-06-01 07:04:03-05,"The observations for the NASDAQ Composite Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The NASDAQ Composite Index is a market capitalization weighted index with more than 3000 common equities listed on the NASDAQ Stock Market. The types of securities in the index include American depositary receipts (ADRs), common stocks, real estate investment trusts (REITs), and tracking stocks. The index includes all NASDAQ listed stocks that are not derivatives, preferred shares, funds, exchange-traded funds (ETFs) or debentures.
-
-Copyright Â© 2016, NASDAQ OMX Group, Inc.",1971-02-01,2023-04-01
-1,WILL5000IND,8,FRED,Wilshire 5000 Total Market Index,D,Index,NSA,2023-06-01 10:02:03-05,"The observations for the Wilshire 5000 Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000INDFC,8,FRED,Wilshire 5000 Total Market Full Cap Index,D,Index,NSA,2023-05-31 07:04:05-05,"The observations for the Wilshire 5000 Total Market Full Cap Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. The designation Full Cap for an index signifies a float adjusted market capitalization that includes shares of stock not considered available to ""ordinary"" investors. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000PR,8,FRED,Wilshire 5000 Price Index,D,Index,NSA,2023-06-01 10:02:04-05,"The observations for the Wilshire 5000 Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The price indexes are price returns, which do not reinvest dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILL5000PRFC,8,FRED,Wilshire 5000 Full Cap Price Index,D,Index,NSA,2023-05-31 07:04:06-05,"The observations for the Wilshire 5000 Full Cap Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The price indexes are price returns, which do not reinvest dividends. The designation Full Cap for an index signifies a float adjusted market capitalization that includes shares of stock not considered available to ""ordinary"" investors. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1971-02-01,2023-04-01
-1,WILLLRGCAP,8,FRED,Wilshire US Large-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:05-05,"The observations for the Wilshire US Large-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLLRGCAPGR,8,FRED,Wilshire US Large-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:03:06-05,"The observations for the Wilshire US Large-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLLRGCAPVAL,8,FRED,Wilshire US Large-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:03:06-05,"The observations for the Wilshire US Large-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMICROCAP,8,FRED,Wilshire US Micro-Cap Total Market Index,D,Index,NSA,2023-06-01 10:02:04-05,"The observations for the Wilshire US Micro-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAP,8,FRED,Wilshire US Mid-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:07-05,"The observations for the Wilshire US Mid-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAPGR,8,FRED,Wilshire US Mid-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:03:08-05,"The observations for the Wilshire US Mid-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLMIDCAPVAL,8,FRED,Wilshire US Mid-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:03:08-05,"The observations for the Wilshire US Mid-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLREITIND,8,FRED,Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT),D,Index,NSA,2023-06-01 10:02:05-05,"The observations for the Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1977-12-01,2023-04-01
-1,WILLRESIND,8,FRED,Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI),D,Index,NSA,2023-06-01 10:02:06-05,"The observations for the Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1977-12-01,2023-04-01
-1,WILLSMLCAP,8,FRED,Wilshire US Small-Cap Total Market Index,D,Index,NSA,2023-06-01 10:03:09-05,"The observations for the Wilshire US Small-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLSMLCAPGR,8,FRED,Wilshire US Small-Cap Growth Total Market Index,D,Index,NSA,2023-06-01 10:02:07-05,"The observations for the Wilshire US Small-Cap Growth Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
-The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,WILLSMLCAPVAL,8,FRED,Wilshire US Small-Cap Value Total Market Index,D,Index,NSA,2023-06-01 10:02:08-05,"The observations for the Wilshire US Small-Cap Value Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
-
- The total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes).",1978-06-01,2023-04-01
-1,HNFSEPUSSA,3,FRED,New One Family Homes for Sale in the United States,M,Thous. of Units,SA,2023-05-23 09:01:07-05,,1963-01-01,2023-04-01
->>>>>>> 415d578d5720b2b7ff89beb0335db4d3940c898a
