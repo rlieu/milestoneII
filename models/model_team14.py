@@ -114,7 +114,7 @@ def plot_pca(df_feature, metadata, k=3):
         n_row=n//k+1
         n_col=k
 
-    fig, ax=plt.subplots(nrows=n_row, ncols=n_col, figsize=(5*n//k, 15))
+    fig, ax=plt.subplots(nrows=n_row, ncols=n_col, squeeze=False, figsize=(5*n//k, 15))
 
     for code in range(n):
 
