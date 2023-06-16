@@ -10,6 +10,9 @@ statsmodels = "*"
 scikit-learn = "*"
 torch = "*"
 torchvision = "*"
+seaborn = "*"
+shap = "*"
+numpy = "==1.23.0"
 
 [dev-packages]
 
