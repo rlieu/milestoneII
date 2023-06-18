@@ -13,6 +13,8 @@ torchvision = "*"
 seaborn = "*"
 shap = "*"
 numpy = "==1.23.0"
+tensorflow = "*"
+pandas = "==2.0.2"
 
 [dev-packages]
 
