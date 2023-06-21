@@ -14,6 +14,12 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
 
+import torch
+import torch.nn as nn
+from torch.utils.data import Dataset, DataLoader, TensorDataset
+import torch.optim as optim
+from sklearn.metrics import classification_report
+
 
 def vis_tss(data, varname, n_split, test_size=None, gap=0):
 
@@ -154,6 +160,73 @@ def DTW(a, b):
     return cumdist[an, bn]
 
 
+def classification_report_csv(report):
+    report_data = []
+    lines = report.split('\n')
+    
+    for line in lines[2:len(lines)-5]:
+        row = {}
+        row_data = [val for val in line.split(' ') if val!='']
+        row['class'] = round(float(row_data[0]),0)
+        row['precision'] = float(row_data[1])
+        row['recall'] = float(row_data[2])
+        row['f1_score'] = float(row_data[3])
+        row['support'] = float(row_data[4])
+        row['accuracy']=float([val for val in lines[-4].split(' ') if val!=''][-2])
+        report_data.append(row)
+        
+    df = pd.DataFrame(report_data)
+    return df
 
+
+def create_dataset(X, y, time_steps=1):
+    Xs, ys = [], []
+    for i in range(len(X) - time_steps ):
+        v = X.iloc[i:(i + time_steps)].values
+        Xs.append(v)        
+        ys.append(y.iloc[i + time_steps])
+    return torch.tensor(np.array(Xs)), torch.tensor(np.array(ys))
+
+
+class RecModel_lstm(nn.Module):
+    def __init__(self, n_features, n_classes, hidden_size, num_layer, batch_first, dropout=0):
+        super().__init__()
+        self.n_features=n_features
+        self.hidden_size=hidden_size
+        self.num_layer=num_layer
+        self.batch_first=batch_first
+        self.lstm = nn.LSTM(input_size=n_features, 
+                            hidden_size=hidden_size, 
+                            num_layers=num_layer, 
+                            dropout=dropout,
+                            batch_first=batch_first)
+        self.linear = nn.Linear(hidden_size, n_classes)
+        
+    def forward(self, x):
+        out_x, (hidden, cell) = self.lstm(x)   ## for lstm
+        out=hidden   ##[:,-1,:].reshape(-1)
+
+        return self.linear(out)
+    
+    
+class RecModel_gru(nn.Module):
+    def __init__(self, n_features, n_classes, hidden_size, num_layer, batch_first, dropout=0):
+        super().__init__()
+        self.n_features=n_features
+        self.hidden_size=hidden_size
+        self.num_layer=num_layer
+        self.batch_first=batch_first
+        self.gru = nn.GRU(input_size=n_features, 
+                            hidden_size=hidden_size, 
+                            num_layers=num_layer, 
+                            dropout=dropout,
+                            batch_first=batch_first)
+        self.linear = nn.Linear(hidden_size, n_classes)
+        
+    def forward(self, x):
+        out_x, hidden = self.gru(x)   ## for lstm
+        out=hidden   ##[:,-1,:].reshape(-1)
+        
+        return self.linear(out)
         
         
