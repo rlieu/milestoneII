@@ -107,6 +107,68 @@ def select_features(metadata, X, threshold, criteria='cum'):  ## criteria can be
     return df_most_important
 
 
+def select_features2(metadata, X, threshold, criteria='cum'):  ## criteria can be 'cum' or None (non-cumulative)
+    
+    n=len(metadata['group_kmean8'].unique())-1
+
+    for code in range(n):
+        # # separating a group of features which have the same code
+        group = metadata[metadata['group_kmean8']==code]
+        # # getting the names of these features from the metadata df
+        group_feature_names = list(group['id'])
+        # # creating a subset of the full_data df having only features with the same code
+
+
+        selected_cols=[colname for colname in group_feature_names if colname in X.columns]
+
+        data = X[selected_cols]
+
+        # Running feature scaling and PCA
+        sc = StandardScaler()
+        scaled = sc.fit_transform(data)
+        # PCA
+        pca = PCA() # with no number of target PCs defined will not do any reduction
+        pc = pca.fit_transform(scaled)
+        n_pcs= pca.components_.shape[0]
+
+        # getting the most important features and their names within this feature group
+        most_important = [np.abs(pca.components_[i]).argmax() for i in range(n_pcs)]
+        
+        # get the names
+        most_important_names = [data.columns[most_important[i]] for i in range(n_pcs)]
+        
+        # Creating a dictionary to summarize features and importance into a dataframe
+        dic = {'PC':['PC{}'.format(i) for i in range(n_pcs)],
+            'variable':[most_important_names[i] for i in range(n_pcs)],
+            'var_ratio':[pca.explained_variance_ratio_[i] for i in range(n_pcs)],
+            'var_ratio_cum':np.cumsum([pca.explained_variance_ratio_[i] for i in range(n_pcs)]),
+            'group':[code+1]*len(range(n_pcs))
+        }
+        
+        if criteria=='cum':
+            c_var='var_ratio_cum'
+            threshold_idx=np.argwhere((dic[c_var]>threshold)*np.ones(n_pcs,dtype=int)==1).min()
+            dic['select']=[1 if x<=threshold_idx else 0 for x in range(n_pcs)]
+            
+        else:
+            c_var='var_ratio'
+            threshold_idx=np.where(np.array(dic[c_var])>threshold)
+            dic['select']=[1 if x in list(threshold_idx[0]) else 0 for x in range(n_pcs)]
+
+        if code==0:
+            df_most_important = pd.DataFrame(dic)
+        
+        else:
+            df=pd.DataFrame(dic)
+            df_most_important=pd.concat([df_most_important, df], axis=0, ignore_index=True)
+    
+    # build the dataframe
+    df_most_important['title']=df_most_important['variable'].apply(lambda x:metadata[metadata.id==x]['title'].values[0])
+    
+
+    return df_most_important
+
+
 
 def plot_pca(df_feature, metadata, k=3):
 
