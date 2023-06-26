@@ -86,7 +86,7 @@ def select_features(metadata, X, threshold, criteria='cum'):
 
 ## Models
 
-[View code](models/1-2.pipeline.ipynb)
+[View code](models/1-1.pipeline_scaling.ipynb)
 
 ### Random Forest
 
